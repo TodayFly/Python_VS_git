@@ -1,0 +1,2960 @@
+
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+
+
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="referrer" content="always" />
+<meta name="description" content="普罗旺斯（Provence），全称普罗旺斯-阿尔卑斯-蓝色海岸（Provence-Alpes-C?te d&#39;Azur），原为罗马帝国的一个行省，现为法国东南部的一个地区，毗邻地中海，和意大利接壤，是从地中海沿岸延伸到内陆的丘陵地带。中间有大河隆河（Rhone）流过。从阿尔卑斯山经里昂南流的罗讷河（Rhone），在普罗旺斯附...">
+<title>普罗旺斯（法国东南薰衣草之乡）_百度百科</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+
+<meta name="keywords" content="普罗旺斯 普罗旺斯历史沿革 普罗旺斯地理环境 普罗旺斯社会 普罗旺斯著名景点 普罗旺斯地方美食 普罗旺斯旅游信息 普罗旺斯相关书籍 普罗旺斯影视作品">
+<meta name="image" content="http://baike.bdimg.com/cms/static/baike.png">
+<script type="text/javascript">
+  // 配置 PD 监控。
+  window.alogObjectConfig = {
+    product: '103',
+    page: '103_1',
+    speed: {
+      sample: '0.008'
+    },
+    monkey: {
+      sample: '1',
+      hid: '1533'
+    },
+    exception: { 
+      sample: '0.004'
+    },
+    feature: {
+      sample: '0.004'
+    },
+    csp: {
+      sample: '0.008',
+      'default-src': [
+        {match: '*.baidu.com,*.bdimg.com,localhost', target: 'Accept'},
+        {match: '*', target: 'Accept,Warn'}
+      ]
+    }
+  };
+
+  void function(a,b,c,d,e,f,g){a.alogObjectName=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=a[e].l||+new Date,d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d;var h=!0;if(a.alogObjectConfig&&a.alogObjectConfig.sample){var i=Math.random();a.alogObjectConfig.rand=i,i>a.alogObjectConfig.sample&&(h=!1)}h&&(f=b.createElement(c),f.async=!0,f.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),g=b.getElementsByTagName(c)[0],g.parentNode.insertBefore(f,g))}(window,document,"script","/hunter/alog/alog.min.js","alog"),void function(){function a(){}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date),alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:a,tti:a,page_ready:a}}();
+  void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+</script>
+<meta name="csrf-token" content="">
+
+<!--[if lte IE 9]>
+<script>
+    (function() {
+      var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(","),
+        i = e.length;
+      while (i--) {
+        document.createElement(e[i]);
+      }
+    })();
+  </script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_9ef7897.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common-base_1f825d9.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-common/widget/component/userbar/userbar_10e138c.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-common/widget/component/userbar-n/userbar-n_bcd805f.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-common/widget/component/headTabBar/headTabBar_c3a1b84.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-common/widget/component/searchbar-n/searchbar_979d0d6.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module_9106039.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-common/widget/component/navbar/navbar_0697c78.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/index_c66d49f.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-common/widget/component/unameFiller/unameFiller_d631c34.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/announcement/announcement_126f5e6.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/label/label_a444f79.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/newSideShare/sideShare_2af1cbd.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/video/pageMask/pageMask_ff9a193.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-common/widget/component/userCard/userCard_2402f1f.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/secondsKnow_2ea3a3a.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/mainContent_98e3702.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaRelation_9f629f5.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_0aeccef.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-common/widget/component/footer/footer_main_a1769ec.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/toolButtons-n_6e90fdd.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/userInfo-n_7e90184.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/searchHeader-n_8b1fc24.css"/></head>
+
+<script type="text/javascript">
+    alog('speed.set', 'ht', +new Date);
+</script>
+<script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?55b574651fcae74b0a9f1cf9c8d7c93a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
+<body class="wiki-lemma normal">
+
+
+<div class="header-wrapper pc-header-new">
+<div class="topbar cmn-clearfix">
+<ul class="wgt-userbar" id="j-wgt-userbar">
+<li>
+<a href="http://www.baidu.com/">百度首页</a>
+</li>
+</ul>
+<div class="separator"></div>
+<div class="wiki-common-headTabBar">
+<a href="https://www.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://www.baidu.com/s?ie=utf-8&fr=bks0000&wd=">网页</a>
+<a href="http://news.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://news.baidu.com/ns?tn=news&cl=2&rn=20&ct=1&fr=bks0000&ie=utf-8&word=">新闻</a>
+<a href="https://tieba.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=">贴吧</a>
+<a href="https://zhidao.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://zhidao.baidu.com/search?pn=0&&rn=10&lm=0&fr=bks0000&word=">知道</a>
+<a href="http://music.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://music.baidu.com/search?f=ms&ct=134217728&ie=utf-8&rn=&lm=-1&pn=30&fr=bks0000&key=">音乐</a>
+<a href="http://image.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=">图片</a>
+<a href="http://v.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=22&ie=utf-8&fr=bks0000&word=">视频</a>
+<a href="http://map.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://map.baidu.com/m?ie=utf-8&fr=bks0000&word=">地图</a>
+<a href="https://wenku.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&fr=bks0000&word=">文库</a>
+<b class="baike">百科</b>
+</div>
+</div>
+<div class="header">
+<div class="layout">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-main cmn-clearfix wgt-searchbar-large">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080011" name="word" type="text" autocomplete="off" autocorrect="off" value="普罗旺斯" /><button id="search" nslog="normal" nslog-type="10080008" type="button">进入词条</button><button id="searchLemma" nslog="normal" nslog-type="10080009" type="button">全站搜索</button><a class="help" href="/help" nslog="normal" nslog-type="10080010" target="_blank">帮助</a>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="close" nslog="normal" nslog-type="10080012">关闭</span>
+</li>
+</ul>
+</div></div>
+</div>
+<div class="declare-wrap" id="J-declare-wrap">
+<div class="declare" id="J-declare">声明：百科词条人人可编辑，词条创建和修改均免费，绝不存在官方及代理商付费代编，请勿上当受骗。<a class="declare-details" target="_blank" href="/common/declaration">详情>></a>
+<div class="close-btn" id="J-declare-close">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-wrapper">
+<div class="wgt-navbar">
+<div class="navbar-bg">
+<div class="navbar-bg-top">
+<div class="navbar-content layout">
+<div class="navbar-content-box">
+<dl class="index ">
+<dt><a href="/">首页</a></dt>
+</dl>
+<dl class="cat ">
+<dt><a>分类</a></dt>
+<dd>
+<div><a href="/art" target="_blank" class="art">艺术</a></div>
+<div><a href="/science" target="_blank" class="technology">科学</a></div>
+<div><a href="/ziran" target="_blank">自然</a></div>
+<div><a href="/wenhua" target="_blank">文化</a></div>
+<div><a href="/dili" target="_blank">地理</a></div>
+<div><a href="/shenghuo" target="_blank">生活</a></div>
+<div><a href="/shehui" target="_blank">社会</a></div>
+<div><a href="/renwu" target="_blank">人物</a></div>
+<div><a href="/jingji" target="_blank">经济</a></div>
+<div><a href="/tiyu" target="_blank">体育</a></div>
+<div><a href="/lishi" target="_blank">历史</a></div>
+</dd>
+</dl>
+<dl class="special ">
+<dt><a>特色百科</a></dt>
+<dd>
+<div><a href="/calendar/" target="_blank">历史上的今天</a></div>
+<div><a href="/museum/" target="_blank">数字博物馆</a></div>
+<div><a href="/item/史记·2016?fr=navbar" target="_blank">史记·2016</a></div>
+<div><a href="/city/" target="_blank">城市百科</a></div>
+<div><a href="/operation/worldwar2" target="_blank">二战百科</a></div>
+<div><a href="/feiyi?fr=dhlfeiyi" target="_blank">非遗百科</a></div>
+</dd>
+</dl>
+<dl class="user" >
+<dt><a>用户</a></dt>
+<dd>
+<div><a href="/kedou/" target="_blank">蝌蚪团</a></div>
+<div><a href="/event/ranmeng/" target="_blank">燃梦计划</a></div>
+<div><a href="/task/" target="_blank">百科任务</a></div>
+<div><a href="/mall/" target="_blank">百科商城</a></div>
+</dd>
+</dl>
+<dl class="cooperation" >
+<dt><a>权威合作</a></dt>
+<dd>
+<div><a href="/operation/cooperation#joint" target="_blank">合作模式</a></div>
+<div><a href="/operation/cooperation#issue" target="_blank">常见问题</a></div>
+<div><a href="/operation/cooperation#connection" target="_blank">联系方式</a></div>
+</dd>
+</dl>
+<dl class="mobile" >
+<dt><a>手机百科</a></dt>
+<dd>
+<div><a href="/m#wap" target="_blank">网页版</a></div>
+</dd>
+</dl>
+<div class="usercenter">
+<div><a href="/usercenter" target="_blank"><em class="cmn-icon cmn-icons cmn-icons_navbar-usercenter"></em>个人中心</a></div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="body-wrapper">
+<div class="before-content">
+<div id="lemmaWgt-secondsKnow" class="lemmaWgt-secondsKnow">
+<div class="layout" style="width: 947px">
+<div class="lemmaWgt-secondsKnow-logo"></div>
+<ul class="lemmaWgt-secondsKnow-gallery">
+<li data-mediaId="second_know_pgc_34942" data-secondId="45501">
+<a href="javascript:;" nslog-type="10002502">
+<img src="http://f.hiphotos.baidu.com/baike/w%3D400/sign=55c003c039adcbef01347f069cae2e0e/9825bc315c6034a8dbbd8285c313495409237652.jpg" />
+<span class="video-shadow"></span>
+<span class="video-play"><em class="cmn-icon cmn-icons cmn-icons_videoPlayer-play"></em></span>
+<span class="video-title" title="普罗旺斯">
+<span class="video-title-content">普罗旺斯</span>
+<span class="video-title-vv"><em class="wiki-lemma-icons wiki-lemma-icons_eye"></em></span>
+</span>
+</a>
+</li>
+<li data-mediaId="mda-gg2ckqqy1yik6gk3" data-secondId="57978">
+<a href="javascript:;" nslog-type="10002502">
+<img src="http://b.hiphotos.baidu.com/baike/w%3D400/sign=fb82d75943fbfbeddc59377f48f0f78e/29381f30e924b899082c3f5e66061d950a7bf640.jpg" />
+<span class="video-shadow"></span>
+<span class="video-play"><em class="cmn-icon cmn-icons cmn-icons_videoPlayer-play"></em></span>
+<span class="video-title" title="少女们都想去的法国小镇——普罗旺斯">
+<span class="video-title-content">少女们都想去的法国小镇——普罗旺斯</span>
+<span class="video-title-vv"><em class="wiki-lemma-icons wiki-lemma-icons_eye"></em></span>
+</span>
+</a>
+</li>
+<li data-mediaId="mda-hcacs40azqukhtxk" data-secondId="153744">
+<a href="javascript:;" nslog-type="10002502">
+<img src="http://g.hiphotos.baidu.com/baike/w%3D400/sign=8021138bbf003af34dbadd600528c619/2e2eb9389b504fc263904387ecdde71191ef6d61.jpg" />
+<span class="video-shadow"></span>
+<span class="video-play"><em class="cmn-icon cmn-icons cmn-icons_videoPlayer-play"></em></span>
+<span class="video-title" title="普罗旺斯风光宣传片">
+<span class="video-title-content">普罗旺斯风光宣传片</span>
+<span class="video-title-vv"><em class="wiki-lemma-icons wiki-lemma-icons_eye"></em></span>
+</span>
+</a>
+</li>
+<li data-mediaId="mda-hdgv2jd6izfwyb8e" data-secondId="182449">
+<a href="javascript:;" nslog-type="10002502">
+<img src="http://d.hiphotos.baidu.com/baike/w%3D400/sign=0451591b7fc6a7efb926a926cdfbafe9/a9d3fd1f4134970ad30eeceb9ccad1c8a6865df1.jpg" />
+<span class="video-shadow"></span>
+<span class="video-play"><em class="cmn-icon cmn-icons cmn-icons_videoPlayer-play"></em></span>
+<span class="video-title" title="普罗旺斯戈尔德小镇">
+<span class="video-title-content">普罗旺斯戈尔德小镇</span>
+<span class="video-title-vv"><em class="wiki-lemma-icons wiki-lemma-icons_eye"></em></span>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="polysemant-list polysemant-list-normal">
+<div class="polysemantList-header">
+<div class="polysemantList-header-title">
+<b>普罗旺斯</b>是一个<a href="/view/10812277.htm" target="_blank">多义词</a>，请在下列<a href="/view/340519.htm" target="_blank">义项</a>上选择浏览（<a href="/item/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF?force=1" target="_blank">共4个义项</a>）</div>
+<a class="polysemantList-addButton" target="_blank" href="/createsub/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF">添加义项</a>
+</div>
+<ul class="polysemantList-wrapper cmn-clearfix" >
+<li class="item">?<span class="selected">法国东南薰衣草之乡</span></li>
+<li class="item">?<a title="葡萄酒产区" href='/subview/16831/9794044.htm#viewPageContent'>葡萄酒产区</a></li>
+<li class="item">?<a title="突击风暴游戏地图" href='/subview/16831/6292745.htm#viewPageContent'>突击风暴游戏地图</a></li>
+<li class="item">?<a title="新疆楼盘" href='/subview/16831/10644491.htm#viewPageContent'>新疆楼盘</a></li>
+</ul>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a href="/divideload/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF" title="拆分词条" target="_blank" class="split-icon top-tool-icon" style="display:none;" nslog-type="50000104">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a href="javascript:void(0);" id="j-top-vote" class="top-vote top-tool-icon" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1 >普罗旺斯</h1>
+<h2>（法国东南薰衣草之乡）</h2>
+<a href="javascript:;" class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" target="_blank" href="/view/10812319.htm" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">普罗旺斯（Provence），全称<a target=_blank href="/item/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF-%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF-%E8%93%9D%E8%89%B2%E6%B5%B7%E5%B2%B8">普罗旺斯-阿尔卑斯-蓝色海岸</a>（Provence-Alpes-C?te d&#39;Azur），原为<a target=_blank href="/item/%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD">罗马帝国</a>的一个行省，现为法国东南部的一个地区，毗邻<a target=_blank href="/item/%E5%9C%B0%E4%B8%AD%E6%B5%B7/11515" data-lemmaid="11515">地中海</a>，和<a target=_blank href="/item/%E6%84%8F%E5%A4%A7%E5%88%A9/148336" data-lemmaid="148336">意大利</a>接壤，是从<a target=_blank href="/item/%E5%9C%B0%E4%B8%AD%E6%B5%B7/11515" data-lemmaid="11515">地中海</a>沿岸延伸到内陆的<a target=_blank href="/item/%E4%B8%98%E9%99%B5%E5%9C%B0%E5%B8%A6">丘陵地带</a>。中间有大河<a target=_blank href="/item/%E9%9A%86%E6%B2%B3">隆河</a>（Rhone）流过。从<a target=_blank href="/item/%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1">阿尔卑斯山</a>经<a target=_blank href="/item/%E9%87%8C%E6%98%82">里昂</a>南流的<a target=_blank href="/item/%E7%BD%97%E8%AE%B7%E6%B2%B3">罗讷河</a>（Rhone），在普罗旺斯附近分为两大支流，然后注入地中海。</div><div class="para" label-module="para">普罗旺斯是世界闻名的<a target=_blank href="/item/%E8%96%B0%E8%A1%A3%E8%8D%89/14513" data-lemmaid="14513">薰衣草</a>故乡，并出产优质葡萄酒。普罗旺斯还是<a target=_blank href="/item/%E6%AC%A7%E6%B4%B2">欧洲</a>的“骑士之城”，是中世纪重要文学体裁骑士抒情诗的<a target=_blank href="/item/%E5%8F%91%E6%BA%90%E5%9C%B0/765556" data-lemmaid="765556">发源地</a>。</div><div class="para" label-module="para">普罗旺斯境内有<a target=_blank href="/item/%E8%89%BE%E5%85%8B%E6%96%AF">艾克斯</a>（Aix-en-Provencea）、<a target=_blank href="/item/%E9%A9%AC%E8%B5%9B">马赛</a>等名城，还有<a target=_blank href="/item/%E9%98%BF%E5%B0%94%E5%8B%92">阿尔勒</a>（Arles）、<a target=_blank href="/item/%E8%91%9B%E5%BE%B7">葛德</a>、<a target=_blank href="/item/%E9%98%BF%E7%BB%B4%E5%B0%BC%E7%BF%81">阿维尼翁</a>（又译<a target=_blank href="/item/%E4%BA%9A%E7%BB%B4%E5%86%9C">亚维农</a>）（Avignon）、<a target=_blank href="/item/%E5%B0%BC%E5%A7%86">尼姆</a>（Nimes）等市镇组成。此地区物产丰饶、阳光明媚、风景优美，从<a target=_blank href="/item/%E5%8F%A4%E5%B8%8C%E8%85%8A">古希腊</a>、<a target=_blank href="/item/%E5%8F%A4%E7%BD%97%E9%A9%AC%E6%97%B6%E4%BB%A3">古罗马时代</a>起就吸引着无数游人，至今依然是<a target=_blank href="/item/%E6%97%85%E6%B8%B8%E8%83%9C%E5%9C%B0">旅游胜地</a>。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名称</dt>
+<dd class="basicInfo-item value">
+普罗旺斯
+</dd>
+<dt class="basicInfo-item name">外文名称</dt>
+<dd class="basicInfo-item value">
+Provence
+</dd>
+<dt class="basicInfo-item name">别&nbsp;&nbsp;&nbsp;&nbsp;名</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E8%96%B0%E8%A1%A3%E8%8D%89">薰衣草</a>之乡骑士之城”
+</dd>
+<dt class="basicInfo-item name">行政区类别</dt>
+<dd class="basicInfo-item value">
+大区
+</dd>
+<dt class="basicInfo-item name">所属地区</dt>
+<dd class="basicInfo-item value">
+法国东南部
+</dd>
+<dt class="basicInfo-item name">下辖地区</dt>
+<dd class="basicInfo-item value">
+罗纳河口省，<a target=_blank href="/item/%E6%B2%83%E5%85%8B%E5%90%95%E5%85%B9%E7%9C%81">沃克吕兹省</a>，<a target=_blank href="/item/%E7%93%A6%E5%B0%94%E7%9C%81">瓦尔省</a>等6省
+</dd>
+<dt class="basicInfo-item name">政府驻地</dt>
+<dd class="basicInfo-item value">
+马赛
+</dd>
+<dt class="basicInfo-item name">电话区号</dt>
+<dd class="basicInfo-item value">
+04
+</dd>
+<dt class="basicInfo-item name">邮政区码</dt>
+<dd class="basicInfo-item value">
+04，05，06，13，83，84
+</dd>
+<dt class="basicInfo-item name">地理位置</dt>
+<dd class="basicInfo-item value">
+毗邻<a target=_blank href="/item/%E5%9C%B0%E4%B8%AD%E6%B5%B7">地中海</a>，和<a target=_blank href="/item/%E6%84%8F%E5%A4%A7%E5%88%A9">意大利</a>接壤
+</dd>
+<dt class="basicInfo-item name">面&nbsp;&nbsp;&nbsp;&nbsp;积</dt>
+<dd class="basicInfo-item value">
+31,400平方公里
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">人&nbsp;&nbsp;&nbsp;&nbsp;口</dt>
+<dd class="basicInfo-item value">
+4,506,151
+</dd>
+<dt class="basicInfo-item name">方&nbsp;&nbsp;&nbsp;&nbsp;言</dt>
+<dd class="basicInfo-item value">
+普罗旺斯语
+</dd>
+<dt class="basicInfo-item name">气候条件</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E6%B0%94%E5%80%99">地中海气候</a>
+</dd>
+<dt class="basicInfo-item name">著名景点</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E8%96%B0%E8%A1%A3%E8%8D%89/14513" data-lemmaid="14513">薰衣草</a>：吕贝隆、鲁伯隆；葡萄酒：沃克吕兹；古建筑：艾克斯
+</dd>
+<dt class="basicInfo-item name">机&nbsp;&nbsp;&nbsp;&nbsp;场</dt>
+<dd class="basicInfo-item value">
+马赛-普罗旺斯机场，阿维尼翁机场，土伦机场
+</dd>
+<dt class="basicInfo-item name">火车站</dt>
+<dd class="basicInfo-item value">
+阿维尼翁火车站，艾克斯火车站，马赛火车站
+</dd>
+<dt class="basicInfo-item name">车牌代码</dt>
+<dd class="basicInfo-item value">
+PRV
+</dd>
+<dt class="basicInfo-item name">人口密度</dt>
+<dd class="basicInfo-item value">
+144人/平方公里
+</dd>
+<dt class="basicInfo-item name">出租车公司</dt>
+<dd class="basicInfo-item value">
+TaxiRadio AixoisTaxi Mirabear
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-4">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">历史沿革</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">地理环境</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#2_1">气候</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">社会</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#3_1">人文风情</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#3_2">民俗</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#3_3">教育</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#3_4">活动</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">著名景点</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#4_1">薰衣草</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#4_2">小城</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#4_3">波城古堡</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#4_4">世外桃源</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">地方美食</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#5_1">橄榄酱</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#5_2">大蒜美乃滋</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#5_3">马赛鱼汤</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#5_4">大蒜辣椒酱</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#5_5">美酒</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#5_6">松露</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#5_7">大蒜西红柿面</a></span>
+</li>
+<li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">旅游信息</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#6_1">住宿</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#6_2">交通</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#6_3">物价</a></span>
+</li>
+<li class="level1">
+<span class="index">7</span>
+<span class="text"><a href="#7">相关书籍</a></span>
+</li>
+<li class="level1">
+<span class="index">8</span>
+<span class="text"><a href="#8">影视作品</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#8_1">电影</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#8_2">音乐</a></span>
+</li>
+<li class="level2">
+<span class="index">?</span>
+<span class="text"><a href="#8_3">诗歌</a></span>
+</li>
+</ol>
+
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a name="1" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_1" class="lemma-anchor " ></a>
+<a name="历史沿革" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">普罗旺斯</span>历史沿革</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">历史上的普罗旺斯地域范围变化很大，古罗马时期普<a class="lemma-album layout-right nslog:10000206" title="普罗旺斯"  href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/21954801/5d6034a85edf8db1601ba0000323dd54564e7499?fr=lemma&ct=cover" target="_blank"  style="width:167px;" nslog-type="10000206">
+<div class="album-wrap" style="width:165px;height:220px;">
+<img class="picture" alt="普罗旺斯" src="https://imgsa.baidu.com/baike/s%3D220/sign=0a4c44605382b2b7a39f3ec601adcb0a/5d6034a85edf8db1601ba0000323dd54564e7499.jpg" style="width:165px;height:220px;"/>
+</div>
+<div class="description">
+普罗旺斯<span class="number">(5张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:159px;"></div>
+<div class="albumBgSec" style="width:153px;"></div>
+</div>
+</a>
+罗旺斯行省北至<a target=_blank href="/item/%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1">阿尔卑斯山</a>，南抵<a target=_blank href="/item/%E6%AF%94%E5%88%A9%E7%89%9B%E6%96%AF%E5%B1%B1%E8%84%89">比利牛斯山脉</a>，包括整个法国南部。<a target=_blank href="/item/%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD">罗马帝国</a>时期，普罗旺斯就被列为其所属的省份。</div>
+<div class="para" label-module="para">18世纪末大革命时期，法国被分成5个不同的行政省份，普罗旺斯是其中之一。</div>
+<div class="para" label-module="para">到了20世纪60年代，行政省份又被重新组合划分成22个大区，于是有了普罗旺斯－阿尔卑斯大区。在<a target=_blank href="/item/%E6%B8%A9%E6%96%87%E5%B0%94%E9%9B%85">温文尔雅</a>的大学名城<a target=_blank href="/item/%E8%89%BE%E5%85%8B%E6%96%AF">艾克斯</a>、教皇之城亚维农的前后，还有那些逃过世纪变迁的中世纪小村落和古老的山镇。</div><div class="anchor-list">
+<a name="2" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_2" class="lemma-anchor " ></a>
+<a name="地理环境" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">普罗旺斯</span>地理环境</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">普罗旺斯（Provence）位于法国南部。最初的普罗旺斯北起<a target=_blank href="/item/%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1">阿尔卑斯山</a>，南到<a target=_blank href="/item/%E6%AF%94%E5%88%A9%E7%89%9B%E6%96%AF%E5%B1%B1%E8%84%89">比利牛斯山脉</a>，包括法国的整个南部区域。<a target=_blank href="/item/%E5%9F%83%E5%85%8B%E6%96%AF">埃克斯</a>市Aix-en-Provence是画家保尔·塞尚的故乡，自中世纪起就是一座大学城，也是著名的&quot;泉城&quot;。这里是罗马普罗旺斯的古都。</div>
+<div class="para" label-module="para">在今天仍以<a target=_blank href="/item/%E5%8F%A4%E7%BD%97%E9%A9%AC">古罗马</a>遗迹、中世纪、<a target=_blank href="/item/%E5%93%A5%E7%89%B9%E5%BC%8F">哥特式</a>和<a target=_blank href="/item/%E6%96%87%E8%89%BA%E5%A4%8D%E5%85%B4">文艺复兴</a>风格建筑而著称。埃克斯市还以独特的烹饪、<a target=_blank href="/item/%E7%8E%AB%E7%91%B0%E7%BA%A2%E8%91%A1%E8%90%84%E9%85%92">玫瑰红葡萄酒</a>、以及特别的语言--普罗旺斯方言闻名。</div><div class="anchor-list">
+<a name="2_1" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_2_1" class="lemma-anchor " ></a>
+<a name="气候" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>气候</h3>
+</div>
+<div class="para" label-module="para">整个<a target=_blank href="/item/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF%E5%9C%B0%E5%8C%BA">普罗旺斯地区</a>因极富变化而拥有不同寻常的魅力--天气阴晴不定<div class="lemma-picture text-pic layout-right" style="width:188px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/b853d6fca82b89cafd037f39?fr=lemma&ct=single" target="_blank"
+		title="普罗旺斯地理位置" style="width:188px;height:220px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=d2ddd1674fc2d562f608d7efd71090f3/a9d3fd1f4134970a5bab6f2895cad1c8a6865dd8.jpg"  alt="普罗旺斯地理位置" style="width:188px;height:220px;"/>
+</a>
+<span class="description">
+普罗旺斯地理位置
+</span>
+</div>，时而暖风和煦，时而冷风狂野，地势跌宕起伏，平原广阔，峰岭险峻，寂寞的<a target=_blank href="/item/%E5%B3%A1%E8%B0%B7">峡谷</a>，苍凉的古堡，蜿蜒的山脉和活泼的都会--全都在这片法国的大地上演绎万种风情。7-8月间的<a target=_blank href="/item/%E8%96%B0%E8%A1%A3%E8%8D%89">薰衣草</a>迎风绽放，浓艳的色彩装饰翠绿的山谷，微微辛辣的香味混合着被晒焦的青草芬芳，交织成法国南部最令人难忘的气息。在美食方面，普罗旺斯最大的优势在于农产品丰富，新鲜的蔬菜水果、橄榄油、<a target=_blank href="/item/%E5%A4%A7%E8%92%9C">大蒜</a>、海鲜、香料组合成食客的天堂。</div>
+<div class="para" label-module="para">普罗旺斯地区属<a target=_blank href="/item/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E6%B0%94%E5%80%99">地中海气候</a>，夏季干燥，冬季温和，每年日照达到300天以上。山区气候特点是冬季漫长，多雪，夏天炎热，多雷雨；山谷坡面间差异明显，并存在各种小气候。夏季通常为7月到9月，白天气温一般都在30度以上。冬季（12月-2月）气温通常在10-15度左右。</div>
+<div class="para" label-module="para">尽管普罗旺斯南北气候有所差异，但总体上来说常年适合旅游，尤其是春夏秋三季的旺季。普罗旺斯冬季的风非常著名，尤其是冬季从<a target=_blank href="/item/%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1">阿尔卑斯山</a>脉吹来的风，顺着Rhone山谷畅通无阻，有时风速甚至可以达到每小时100公里。这里气候温和，空气清新醉人，蔚蓝的海水像水晶般洁净。</div><div class="anchor-list">
+<a name="3" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_3" class="lemma-anchor " ></a>
+<a name="社会" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">普罗旺斯</span>社会</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="3_1" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_3_1" class="lemma-anchor " ></a>
+<a name="人文风情" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>人文风情</h3>
+</div>
+<div class="para" label-module="para">普罗旺斯位于法国南部，从诞生之日起，就谨慎地保守着她的秘密，直到英国人<a target=_blank href="/item/%E5%BD%BC%E5%BE%97%C2%B7%E6%A2%85%E5%B0%94">彼得·梅尔</a>的到来，普罗旺斯许久以来独特生活风格的面纱才渐渐揭开。在<a target=_blank href="/item/%E6%A2%85%E5%B0%94">梅尔</a>的笔下“普罗旺斯”已不再是一个单纯的地域名称，更代表了一种<a class="lemma-album layout-right nslog:10000206" title="普罗旺斯-薰衣草的海洋"  href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/2589371/b29f82826fb519f36d81191f?fr=lemma&ct=cover" target="_blank"  style="width:168px;" nslog-type="10000206">
+<div class="album-wrap" style="width:166px;height:220px;">
+<img class="picture" alt="普罗旺斯-薰衣草的海洋" src="https://imgsa.baidu.com/baike/s%3D220/sign=aed5860ffbf2b211e02e824cfa816511/ae51f3deb48f8c542a0325533a292df5e1fe7ffe.jpg" style="width:166px;height:220px;"/>
+</div>
+<div class="description">
+普罗旺斯-薰衣草的海洋<span class="number">(19张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:160px;"></div>
+<div class="albumBgSec" style="width:154px;"></div>
+</div>
+</a>
+简单无忧、轻松慵懒的生活方式，一种“宠辱不惊，闲看庭前<a target=_blank href="/item/%E8%8A%B1%E5%BC%80%E8%8A%B1%E8%90%BD">花开花落</a>，去留无意，漫随天外云卷云舒”的闲适意境。如果旅行是为了摆脱生活的桎梏，普罗旺斯会让你忘掉一切。</div>
+<div class="para" label-module="para">整个普罗旺斯地区因极富变化而拥有不同寻常的魅力——天气阴晴不定，时而暖风和煦，时而海风狂野，地势跌宕起伏，平原广阔，峰岭险峻，寂寞的峡谷，苍凉的古堡，蜿蜒的山脉和活泼的都会，全都在这片法国的大地上演绎万种风情。7～8月间的薰衣草迎风绽放，交织成法国南部最令人难忘的气息。</div>
+<div class="para" label-module="para">普罗旺斯最令人心旷神怡的是，它的空气中总是充满了<a target=_blank href="/item/%E8%96%B0%E8%A1%A3%E8%8D%89">薰衣草</a>、<a target=_blank href="/item/%E7%99%BE%E9%87%8C%E9%A6%99">百里香</a>、<a target=_blank href="/item/%E6%9D%BE%E6%A0%91">松树</a>等的香气。这种独特的自然香气是在其他地方所无法轻易体验到的。其中又以薰衣草最为得天独厚且受到喜爱。</div>
+<div class="para" label-module="para">由于充足灿烂的阳光最适宜薰衣草的成长，再加上当地居民对薰衣<a target=_blank href="/item/%E8%8D%89%E9%A6%99">草香</a>气以及疗效的钟爱，因此，在普罗旺斯不仅可以看到遍地薰衣草紫色<a target=_blank href="/item/%E8%8A%B1%E6%B5%B7">花海</a>翻腾的迷人画面，而且在家也常见挂着各式各样薰衣草香包、香袋，商店也摆满由薰衣草制成的各种制品，像薰衣草香<a target=_blank href="/item/%E7%B2%BE%E6%B2%B9">精油</a>、香水、香皂、蜡烛等，在药房与市集中贩卖着分袋包装好的薰衣草花草茶。让人禁不住想多了解普罗旺斯迷人的香气——薰衣草的种种。</div>
+<div class="para" label-module="para">在普罗旺斯，<a target=_blank href="/item/%E8%96%B0%E8%A1%A3%E8%8D%89">薰衣草</a>花田一年四季都有着截然不同的景观。冬天，在收成切割后，只剩下短而整齐的枯茎，覆盖着白雪。春天一到，绿叶冒出。</div>
+<div class="para" label-module="para">6月紫晕，渐渐地随着夏天的艳阳愈来愈热，薰衣草花也很快地转变成迷人的深紫色。紧接着是忙碌的采收工作开始了，掌握时间很重要，因此，花农们必须夜以继日地采割花朵，并蒸馏萃取液。直到9月底，所有的花田都已采收完成。薰衣草花田才得以喘口气，吸收大自然的精华，为明年夏天的再一次盛开紫色花朵而做准备。</div>
+<div class="para" label-module="para">普罗旺斯，薰衣草的故乡。提到法国的普罗旺斯地区，可能在现今时尚<a target=_blank href="/item/%E6%B5%AA%E6%BC%AB%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA">浪漫的中国人</a>的脑海里第一个出现的会是代表甜美爱情的薰衣草。其实不止是在普罗旺斯，走在法国许多城市的有绿化带的道路上，人们总能看到紫色的薰衣草（lavande）在风中摇曳。普罗旺斯风中的香气不能只用紫色薰衣草来汇总，因为这里有那么多能使嗅觉快乐的东西。就算不可能全部了解普罗旺斯的香，人们有必要前去普罗旺斯亲身去体味几种这里特别的味道。在普罗旺斯的<a target=_blank href="/item/%E5%9F%8E%E5%B8%82%E9%97%B4">城市间</a>穿梭特别是在马赛闲逛的时候，人们会很快的认识一种当地的特产：<a target=_blank href="/item/%E9%A9%AC%E8%B5%9B%E7%9A%82">马赛皂</a>。</div>
+<div class="para" label-module="para">这种非常出名的肥皂可以说是这个福赛城（la cité phocéenne）（公元前六世纪，一群来自古希腊福赛（phocée）地区的水手登陆马赛，从此马赛开始建城。马赛城内留存有一些同远在<a target=_blank href="/item/%E7%88%B1%E7%90%B4%E6%B5%B7%E5%B2%B8">爱琴海岸</a>的福赛古城相同的建筑风格与习俗。因此马赛也被人称为“福赛城”）和它的工业生产的骄傲。而现如今，这里只保留着很少的马赛肥皂的生产量并且坚持手工制造。制造一块传统的马赛肥皂需要至少三个星期的准备时间，主要的生产原材料是植物油。可以说马赛肥皂是普罗旺斯人对芳香的热爱的一个见证。</div>
+<div class="para" label-module="para">普罗旺斯温和的气候大度地接纳着大量的外来水果和蔬菜在本地的繁衍。在众多的<a target=_blank href="/item/%E5%A4%96%E6%9D%A5%E6%A4%8D%E7%89%A9">外来植物</a>之中，薰衣草一直稳坐当地植物界皇后的宝座。这种来自古波斯地区的植物以其优雅的淡香而享有盛誉。随着时间的改变，这种来自<a target=_blank href="/item/%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA">中东地区</a>的淡紫色小花现如今已成了法国普罗旺斯地区的一个重要标志。它用它那极有特点的蓝紫色和淡雅的幽香点缀着普罗旺斯的田野与道路，庭院与居室。对这种好似具有混合香型的植物的采收已成为一种较为罕见的现象。这是由于自十九世纪始，完全适应了普罗旺斯温和气候的薰衣草开始布满普罗旺斯的田间和地头，也正是自那时起，人们开始利用薰衣草配制一些著名品牌的香水。这导致许多家族式香精蒸馏商携家带口将他们的产业转移至普罗旺斯地区，他们用薰衣草制造不是很出名的古龙水。由于历史上的多种危机的多次出现，这种家族产业几乎已经在普罗旺斯消失，但淡紫色的薰衣草以它顽强的生命力依旧坚持在香水制造业中发挥着它的作用。</div>
+<div class="para" label-module="para">十六世纪中叶，法国La reine Catherine（凯萨琳女王）从意大利引进穿戴香料手套的风尚，自此掀起精油在法国的热潮，使得素有“<a target=_blank href="/item/%E6%B5%AA%E6%BC%AB%E4%B9%8B%E9%83%BD">浪漫之都</a>”之称的<a target=_blank href="/item/%E6%B3%95%E5%9B%BD/1173384" data-lemmaid="1173384">法国</a>，除了香醇的葡萄酒香令世人着迷外，亦成为当今无数芳疗师心中的“精油圣地”。</div>
+<div class="para" label-module="para">其品牌也一直捍卫着精油行业的秘密：得花材者得天下！</div>
+<div class="para" label-module="para">Lavender——薰衣草，这种花语为&quot;等待爱情&quot;的紫色小花，不知迷倒了多少人。Self Voyages Provence（普罗旺斯自助游旅行社）的Pascal先生开着他的<a target=_blank href="/item/%E4%B8%B0%E7%94%B0">丰田</a>带着我们穿山过野，翻过由白色石灰岩构成即使是夏天看起来也像是白雪皑皑的<a target=_blank href="/item/%E5%86%AF%E6%9D%9C%E5%B1%B1">冯杜山</a>（Mont Ventoux），穿过大片大片金色的向日葵田，终于停在了一片<a target=_blank href="/item/%E7%B4%AB%E9%9C%9E">紫霞</a>蒸腾的土地。</div>
+<div class="para" label-module="para"><a target=_blank href="/item/%E8%96%B0%E8%A1%A3%E8%8D%89%E4%B9%8B%E9%83%BD">薰衣草之都</a>Lavender Sault赛尔真是太美了。我是第一次看到如此茂盛的薰衣草田，如此纯粹的紫色在高高低低的田园里绽开，在夏日的风中打开浪漫的符号，像那种最沉静的思念，最甜蜜的惆怅，仿佛藏身于深爱者的心中却永远无法执子之手的那种温暖而忧伤的感觉。</div>
+<div class="para" label-module="para">收割好的干草垛卷成橡木酒桶样子，三个五个地晾晒在田野上，黄得很单纯。黄与紫就这样干净地舒展着，空气里、我们的头发上，肌肤上满满的沾染了薰衣草的味道。</div>
+<div class="para" label-module="para">Pascal先生已经在柏树<a target=_blank href="/item/%E6%9E%97%E9%87%8C">林里</a>为我们搭好了野餐的台椅，野餐的内容如此丰盛，唯一担心的是胃口太好，中西式菜点，鲜榨果汁，面包，<a target=_blank href="/item/%E5%A5%B6%E9%85%AA">奶酪</a>，水果，酒类，甚至还有甜点！阳光从柏树叶间透露出斑斑点点的金色，风儿轻柔，雀鸣婉转，满眼都是纯美的紫色，呼吸里都是甜美的气息--所谓幸福，不过如此吧！</div>
+<div class="para" label-module="para">想感受到普罗旺斯的真正魅力， 需要到普罗旺斯的小村庄里。石头铺就的小路，中世纪的城堡，罗马古迹，身临其境， 可以感受到普罗旺斯千年的气息和传说。在小的咖啡馆里法国人在灿烂的阳光下休息和聊天。</div>
+<div class="para" label-module="para">村庄周围处处能看到大片大片的薰衣草花田、金色向日葵、葡萄树、<a target=_blank href="/item/%E6%A9%84%E6%A6%84%E6%A0%91/834" data-lemmaid="834">橄榄树</a>和雄伟的<a target=_blank href="/item/%E6%A2%A7%E6%A1%90%E6%A0%91/685512" data-lemmaid="685512">梧桐树</a>。Vincent开着他的迷你小巴停在薰衣草花田里，我们可以拍浪漫的照片。</div>
+<div class="para" label-module="para">普罗旺斯安旅旅行社带我们揭开美丽的普罗旺斯的神秘面纱。</div><div class="anchor-list">
+<a name="3_2" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_3_2" class="lemma-anchor " ></a>
+<a name="民俗" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>民俗</h3>
+</div>
+<div class="para" label-module="para">普罗旺斯的生活简朴而高尚，单来这里把<a class="lemma-album layout-right nslog:10000206" title="普罗旺斯"  href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/2968449/34fae6cd7b899e514d79ac8742a7d933c9950da9?fr=lemma&ct=cover" target="_blank"  style="width:222px;" nslog-type="10000206">
+<div class="album-wrap" style="width:220px;height:165px;">
+<img class="picture" alt="普罗旺斯" src="https://imgsa.baidu.com/baike/s%3D220/sign=bfd5e297970a304e5622a7f8e1c9a7c3/34fae6cd7b899e514d79ac8742a7d933c9950da9.jpg" style="width:220px;height:165px;"/>
+</div>
+<div class="description">
+普罗旺斯<span class="number">(24张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+节奏放缓，好好地吸一口忘草香，尝一口鲜味芝士，也是人生难得的境界。</div>
+<div class="para" label-module="para">南普罗旺斯的古老小城<a target=_blank href="/item/%E9%98%BF%E5%B0%94%E5%8B%92">阿尔勒</a>（Arles），以热烈明亮的地中海阳光和时尚的艺术风格闻名。看过《梵高传》的人大概都会记得杰出的画家曾在这里创作、生活过。这里的街道、房屋、酒吧，国际摄影节，在石头古巷和小广场上，展览当今缔造潮流的大摄影师和风流人物。</div>
+<div class="para" label-module="para">普罗旺斯出品优质<a target=_blank href="/item/%E8%91%A1%E8%90%84">葡萄</a>美酒，其中20%为高级和顶级酒种。由于地中海阳光充足，普罗旺斯的葡萄含有较多的糖分，这些糖转变为酒精，使普罗旺斯酒的酒精度比北方的酒高出2度。略带橙黄色的干桃红酒是最具特色的。常见的红酒有：Cotes de Provence, Coteaux d $Cts&#39;$Aix en Provence, Bandol。从地中海沿岸延伸到内陆的丘陵地区，中间有大河&quot;Rhone&quot;流过，很多历史城镇，自古就以靓丽的阳光和蔚蓝的天空，迷人的地中海和心醉的薰衣草，令世人惊艳。</div>
+<div class="para" label-module="para">如果有人说普罗旺斯是彻底的浪漫，大概也不过分，因为这里除了很久流传的浪漫爱情传奇，还有因《<a target=_blank href="/item/%E9%A9%AC%E8%B5%9B%E6%9B%B2">马赛曲</a>》而闻名的马赛，因《<a target=_blank href="/item/%E5%9F%BA%E7%9D%A3%E5%B1%B1%E4%BC%AF%E7%88%B5">基督山伯爵</a>》而为众人皆知的依夫岛，还有儒雅的<a target=_blank href="/item/%E5%A4%A7%E5%AD%A6%E5%9F%8E">大学城</a>艾克斯和<a target=_blank href="/item/%E9%98%BF%E7%BB%B4%E5%B0%BC%E7%BF%81">阿维尼翁</a>，回味久远的中世纪山庄，街边舒适的小咖啡馆。</div>
+<div class="para" label-module="para">普罗旺斯历史上有包括<a target=_blank href="/item/%E5%A1%9E%E5%B0%9A">塞尚</a>、<a target=_blank href="/item/%E5%87%A1%E9%AB%98">凡高</a>、<a target=_blank href="/item/%E8%8E%AB%E5%A5%88">莫奈</a>、<a target=_blank href="/item/%E6%AF%95%E5%8A%A0%E7%B4%A2">毕加索</a>、<a target=_blank href="/item/%E5%A4%8F%E5%8D%A1%E5%B0%94">夏卡尔</a>等人均在普罗旺斯展开艺术生命的新阶段，蔚蓝海岸的享乐主义风气，也吸引了美国作家<a target=_blank href="/item/%E8%B4%B9%E5%85%B9%E6%9D%B0%E7%BD%97">费兹杰罗</a>、英国作家<a target=_blank href="/item/%E5%8A%B3%E4%BC%A6%E6%96%AF">劳伦斯</a>、科学家<a target=_blank href="/item/%E8%B5%AB%E8%83%A5%E9%BB%8E">赫胥黎</a>、德国诗人<a target=_blank href="/item/%E5%B0%BC%E9%87%87">尼采</a>等人前来<a target=_blank href="/item/%E6%9C%9D%E5%9C%A3">朝圣</a>，当然，还囊括了《<a target=_blank href="/item/%E5%B1%B1%E5%B1%85%E5%B2%81%E6%9C%88">山居岁月</a>》，将普罗旺斯推向巅峰的<a target=_blank href="/item/%E5%BD%BC%E5%BE%97%C2%B7%E6%A2%85%E5%B0%94">彼得·梅尔</a>。<sup>[1]</sup><a class="sup-anchor" name="ref_[1]_5637588">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="3_3" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_3_3" class="lemma-anchor " ></a>
+<a name="教育" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>教育</h3>
+</div>
+<div class="para" label-module="para">普罗旺斯－埃克斯－马赛第一大学（简称<a target=_blank href="/item/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF%E5%A4%A7%E5%AD%A6">普罗旺斯大学</a>）是一个科学、文化与职业性公用事业机构，由原埃克斯－昂－普罗旺斯文学与人文科学学院和马赛理学院于1969年合并而成。</div>
+<div class="para" label-module="para">今天的普罗旺斯大学共接纳25000名学生，师资队伍包括1000多名教授和副教授，500名国家研究机构——如<a target=_blank href="/item/%E6%B3%95%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%A7%91%E7%A0%94%E4%B8%AD%E5%BF%83">法国国家科研中心</a>（CNRS）、国家农学研究院（INRA）和发展研究所（IRD）——研究员；此外，还有700名工程师、技术员和行政人员。</div>
+<div class="para" label-module="para"><b>基本信息</b></div>
+<div class="para" label-module="para">学校准确名称：普罗旺斯－<a target=_blank href="/item/%E5%9F%83%E5%85%8B%E6%96%AF">埃克斯</a>－马赛第一大学</div>
+<div class="para" label-module="para">学校性质：公立</div>
+<div class="para" label-module="para">学校主校区所在城市名称：马赛市及埃克斯－昂－普罗旺斯市</div>
+<div class="para" label-module="para">在校学生人数：24526人</div>
+<div class="para" label-module="para">外国学生人数或比例：外国学生占12%，中国学生约200至300人</div>
+<div class="para" label-module="para">颁发文凭的性质及种类：学士/硕士/博士</div>
+<div class="para" label-module="para">其它国家文凭：校颁文凭</div>
+<div class="para" label-module="para">是否为外国学生设法语课：有</div>
+<div class="para" label-module="para">是否为外国学生设专门课程：有</div>
+<div class="para" label-module="para">是否设有英语教学的课程：无</div>
+<div class="para" label-module="para">2004/2005年注册费金额（参考标价）：法语预科：4000欧元/一年级专业辅导：2000欧元/其它学年：500欧元</div>
+<div class="para" label-module="para">邮政地址：</div>
+<div class="para" label-module="para">Université de Provence Case 89bis</div>
+<div class="para" label-module="para">3、 Pl. Victor Hugo 13331 MARSEILLE cedex 3</div><div class="anchor-list">
+<a name="3_4" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_3_4" class="lemma-anchor " ></a>
+<a name="活动" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>活动</h3>
+</div>
+<div class="para" label-module="para">这个地区的活动之多，更是令人目不暇接，从年初2月的蒙顿柠檬节到7～8月的<a target=_blank href="/item/%E4%BA%9A%E7%BB%B4%E5%86%9C">亚维农</a>艺术节。欧洪吉的<a target=_blank href="/item/%E6%AD%8C%E5%89%A7%E8%8A%82">歌剧节</a>到8月普罗旺斯山区的<a target=_blank href="/item/%E8%96%B0%E8%A1%A3%E8%8D%89">薰衣草</a>节，四时呼应着山城无拘无束的岁月。这股自由的色彩蛊惑着艺术家创作的灵感，包括<a target=_blank href="/item/%E5%A1%9E%E5%B0%9A">塞尚</a>、<a target=_blank href="/item/%E5%87%A1%E9%AB%98">凡高</a>、<a target=_blank href="/item/%E8%8E%AB%E5%A5%88">莫奈</a>、<a target=_blank href="/item/%E6%AF%95%E5%8A%A0%E7%B4%A2">毕加索</a>、<a target=_blank href="/item/%E5%A4%8F%E5%8D%A1%E5%B0%94">夏卡尔</a>等人均在普罗旺斯展开艺术生命的新阶段，<a target=_blank href="/item/%E8%94%9A%E8%93%9D%E6%B5%B7%E5%B2%B8">蔚蓝海岸</a>的享乐主义风气，也吸引了美国作家费兹杰罗、英国作家<a target=_blank href="/item/%E5%8A%B3%E4%BC%A6%E6%96%AF">劳伦斯</a>、法国作家<a target=_blank href="/item/%E8%B5%AB%E8%83%A5%E9%BB%8E">赫胥黎</a>、<a target=_blank href="/item/%E5%B0%BC%E9%87%87">尼采</a>等人前来朝圣，当然，还囊括了《<a target=_blank href="/item/%E5%B1%B1%E5%B1%85%E5%B2%81%E6%9C%88">山居岁月</a>》，将普罗旺斯推向巅峰的彼得·梅尔。普罗旺斯浪漫的色彩，永无止境的艺术也吸引着我们闻风而来。</div><div class="anchor-list">
+<a name="4" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_4" class="lemma-anchor " ></a>
+<a name="著名景点" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">普罗旺斯</span>著名景点</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="4_1" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_4_1" class="lemma-anchor " ></a>
+<a name="薰衣草" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>薰衣草</h3>
+</div>
+<div class="para" label-module="para">吕贝隆山区（Luberon）Sault<a target=_blank href="/item/%E4%BF%AE%E9%81%93%E9%99%A2">修道院</a>的花田是该区最著名的薰衣草观赏地，也是《普罗旺斯的一年》一书的故事背景，号称全法国最美丽的山谷之一。山上有一座12世纪的修道院，塞南克修道院前方有一大片的薰衣草花田，是由院里的修道士栽种的，有不同颜色的薰衣草。</div>
+<div class="para" label-module="para">施米雅那山区（Simiane-la-Rotonde）的施米雅那是一座极具特色的山城，山顶矗立着一座建于12至13世纪的城堡罗通德，环绕着一大片的薰衣草花田。站在施米雅那城镇里，随处可见到紫色花田，无边无际地蔓延。</div><div class="anchor-list">
+<a name="4_2" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_4_2" class="lemma-anchor " ></a>
+<a name="小城" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>小城</h3>
+</div>
+<div class="para" label-module="para">Luberon（吕贝隆）是沃克里兹省的南部地区，彼得·梅尔的《<a target=_blank href="/item/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF%E7%9A%84%E4%B8%80%E5%B9%B4">普罗旺斯的一年</a>》中所写的地方就在这里。Roussillon(鲁西庸)是座彩色的村庄，桃红、鲜橙、明黄的房子像天使的玩具，随意散落在村中。</div>
+<div class="para" label-module="para">Gordes是座岩石山庄，Gordes村里还有一座薰衣草博物馆，门口一辆老式的薰衣草压油机。博物馆里展示了薰衣草农田里的各种用具。</div>
+<div class="para" label-module="para">艾克斯市是画家保尔·塞尚的故乡，自中世纪就是一座大学城，也是著名的“泉城”。这里是罗马普罗旺斯的古都。该市以独特的烹饪、玫瑰红葡萄酒，以及特贝的语言--普罗旺斯方言闻名。在奥郎日，你可以坐在罗马时代的圆形<a target=_blank href="/item/%E9%9C%B2%E5%A4%A9%E5%89%A7%E5%9C%BA">露天剧场</a>看戏；在阿尔，你可以坐在咖啡厅里消磨一个下午。这里每年7月，还会举办一个很时髦<a target=_blank href="/item/%E7%9F%B3%E5%A4%B4%E5%9F%8E">石头城</a>的国际摄影节，在石头<a target=_blank href="/item/%E5%8F%A4%E5%B7%B7">古巷</a>和小广场上，展览当今缔造潮流的大摄影师和风流人物。</div><div class="anchor-list">
+<a name="4_3" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_4_3" class="lemma-anchor " ></a>
+<a name="波城古堡" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>波城古堡</h3>
+</div>
+<div class="para" label-module="para">交通：<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/b3fb43166d224f4ab6eae58009f790529822d136?fr=lemma&ct=single" target="_blank"
+		title="波城古堡" style="width:220px;height:167px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=3f399ab1b31bb0518b24b42a067bda77/b3fb43166d224f4ab6eae58009f790529822d136.jpg"  alt="波城古堡" style="width:220px;height:167px;"/>
+</a>
+<span class="description">
+波城古堡
+</span>
+</div>由亚耳巴士总站乘前往马赛方向的大巴，在Les Baux下车即可，每天有4班车。</div>
+<div class="para" label-module="para">门票：波城历史博物馆门票6.5欧元</div>
+<div class="para" label-module="para">开放时间：旺季（7、8月）9：00～20：30；其他时间9：00～19：30。</div>
+<div class="para" label-module="para"><a target=_blank href="/item/%E6%B3%A2%E5%9F%8E%E5%8F%A4%E5%A0%A1">波城古堡</a>是指位于亚耳附近地区的波城·普罗旺斯（Les Baux de Provence）的古城塞遗迹。波城这里曾经是被诗人米斯特拉称为“鹫族”的英勇的波城一族驻守的城塞，后来经历了无数次战</div>
+<div class="para" label-module="para">争硝烟的洗礼，波城古堡于路易13世在位期间毁于战火，保留的是当年的古堡废墟可供游人参观。</div>
+<div class="para" label-module="para">波城古堡的入口处是波城历史博物馆（Musée d&#39;Histoire des Baux），展示城堡当年鼎盛时期的历史资料与文物，站在城堡顶端，环顾四方，亚耳古城等周边风光尽收眼底，据说北方的<a target=_blank href="/item/%E5%9C%B0%E7%8B%B1%E8%B0%B7">地狱谷</a>（Va d&#39;Enfer）是触发<a target=_blank href="/item/%E4%BD%86%E4%B8%81">但丁</a>撰写《神曲·地狱篇》的地方。</div><div class="anchor-list">
+<a name="4_4" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_4_4" class="lemma-anchor " ></a>
+<a name="世外桃源" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>世外桃源</h3>
+</div>
+<div class="para" label-module="para">20世纪30年代，裸体行为倡导者们来到法国普罗旺斯地区一个美丽的岛屿生活，这里可称得上裸体倡导者的世外桃源，一切都是那么自然和质朴，尽管许多年这里未通电，人们只得度过没有灯光的夜晚。但是，这种<a target=_blank href="/item/%E5%8F%8D%E7%92%9E%E5%BD%92%E7%9C%9F">反璞归真</a>的生活，使<a target=_blank href="/item/%E8%A3%B8%E4%BD%93%E4%B8%BB%E4%B9%89">裸体主义</a>者们在此生活了数十年，这个小岛成为世界上历史最悠久的裸体主义者的世外桃源。</div>
+<div class="para" label-module="para">这个长8公里宽2公里的狭长岛屿离土伦港不远，早在6世纪，这里曾是海盗频繁出没的海区，到了19世纪，这个小岛成为少年犯罪囚禁地。这个小岛被命名为&quot;Heliopolis&quot;（古希腊语意为太阳之城）。Heliopolis这个裸体主义者的世外桃源早在1931年创立，其创办者德斯－<a target=_blank href="/item/%E5%8A%A0%E6%96%AF%E9%A1%BF">加斯顿</a>和<a target=_blank href="/item/%E5%AE%89%E5%BE%B7%E7%83%88">安德烈</a>－杜里危勒曾表示，Heliopolis是裸体主义者的天堂，他们可以远离城市的喧嚣，在这里自由地享受清新的空气和温馨的日光浴。</div>
+<div class="para" label-module="para">73年过去了，岛上生活着230人，他们通常在此生活了许多年，他们可以无拘无束地裸行，贴近大自然感受温暖的阳光。90岁的<a target=_blank href="/item/%E5%85%8B%E5%8A%B3%E5%BE%B7">克劳德</a>－鲁特兹是岛上的一位长者，他说：“尽管我们生活在无拘无束的环境中，但是，一些偷窥者时常来骚扰我们，也许是我们的裸体行为深深吸引了他们的私欲。”</div>
+<div class="para" label-module="para">岛上的“少壮派”管理人员立志将这个世外桃源建设成为一个现代化的社区<div class="lemma-picture text-pic layout-left" style="width:220px; float: left;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/566d0fdf31def64b632798a8?fr=lemma&ct=single" target="_blank"
+		title="普罗旺斯" style="width:220px;height:171px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=adc89a957b899e517c8e3d1672a7d990/8ad4b31c8701a18b1fe45b279e2f07082838fe4f.jpg"  alt="普罗旺斯" style="width:220px;height:171px;"/>
+</a>
+<span class="description">
+普罗旺斯
+</span>
+</div>，为大家提供更多的便利。据悉，小岛条件的首次改善是在1989年，当时接通了地下电缆网路，但是，社区却规定夜晚照明用电是禁止的，其初衷是希望人们继续保持夜晚观看美丽星空的习惯。晚上人们只能使用手电筒。但是，小岛的生活条件仍十分落后，由于这个小岛较偏僻，到此的裸体主义者需花费22欧元才可从Lavandou坐船到此。同时，饮用水资源是一个严重问题，大家为了饮用纯净淡水，只得凿井取水还得建造化粪池。大家计划下一步将小岛的港口进一步扩伸。</div>
+<div class="para" label-module="para">在小岛上交通工具是禁止使用的，在大家生活的小社区里，有<a target=_blank href="/item/%E5%92%96%E5%95%A1%E5%B1%8B">咖啡屋</a>、面包房、<a target=_blank href="/item/%E6%9D%82%E8%B4%A7%E5%BA%97">杂货店</a>、市镇大厅、邮局，甚至还有学校，在学校里只有6名学生上课。在岛上还有穿着制服的执勤警察，他们的工作就是命令部分人在此必须脱去身上衣物，还命令部分人务必穿着得体。一位执勤警察说，&quot;我们的处罚方式没有罚款，更没有其他囚禁措施。我们生活在一起都非常友好，我们只是起到一种监督作用。&quot;</div>
+<div class="para" label-module="para">每年夏季Heliopolis岛将到访最少25000名裸体主义者，其中大多数都是外国人。据悉，到访人数与20世纪60年代有明显对照，那时全球倡导性开放观念，那些年里每年将有最少6000名裸体主义者到访。Heliopolis管理人员<a target=_blank href="/item/%E7%9A%AE%E5%9F%83%E5%B0%94">皮埃尔</a>－佩兰说：“每年夏季吸引诸多游客的另一个原因就是性，在这里许多第一次到访者充满了好奇心。”</div><div class="anchor-list">
+<a name="5" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_5" class="lemma-anchor " ></a>
+<a name="地方美食" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">普罗旺斯</span>地方美食</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">许多人常用三种食物代表普罗旺斯的烹调特色：橄榄油、<a target=_blank href="/item/%E5%A4%A7%E8%92%9C">大蒜</a>与<a target=_blank href="/item/%E8%A5%BF%E7%BA%A2%E6%9F%BF">西红柿</a>。走在普罗旺斯，触目所及几乎都是绿油油的橄榄树，此地可以说是法国橄榄油生产的重镇，不仅造就了别致地自然景观，也提供了居民营养所须的油脂。橄榄也顺理成章的走入每家的厨房，<a target=_blank href="/item/%E6%A9%84%E6%A6%84%E9%85%B1">橄榄酱</a>（tapenade）即是最佳范例。</div><div class="anchor-list">
+<a name="5_1" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_5_1" class="lemma-anchor " ></a>
+<a name="橄榄酱" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>橄榄酱</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/d53f8794a4c27d1e944f88c21dd5ad6eddc4384e?fr=lemma&ct=single" target="_blank"
+		title="橄榄酱和烘焙面包" style="width:220px;height:146px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=0f008f15db54564ee165e33b83de9cde/d53f8794a4c27d1e944f88c21dd5ad6eddc4384e.jpg"  alt="橄榄酱和烘焙面包" style="width:220px;height:146px;"/>
+</a>
+<span class="description">
+橄榄酱和烘焙面包
+</span>
+</div><b>橄榄酱</b><b>:</b>将大蒜与<a target=_blank href="/item/%E9%B3%80%E9%B1%BC">鳀鱼</a>（anchovy）分别切碎，加入洗净的<a target=_blank href="/item/%E9%85%B8%E8%B1%86">酸豆</a>（capers）、<a target=_blank href="/item/%E7%99%BE%E9%87%8C%E9%A6%99">百里香</a>、<a target=_blank href="/item/%E9%A6%99%E8%96%84%E8%8D%B7">香薄荷</a>（savory）和<a target=_blank href="/item/%E6%9F%A0%E6%AA%AC">柠檬</a>汁，以食物处里机打匀，徐徐倒入橄榄油，并以胡椒调味。做好的橄榄酱涂抹在稍微烘烤的面包上就是最道地的开胃菜，而以橄榄酱作成的<a target=_blank href="/item/%E6%B3%95%E5%9B%BD%E9%9D%A2%E5%8C%85">法国面包</a>更是普罗旺斯的特产，如果喜欢，还能拿橄榄酱来作菜呢！</div><div class="anchor-list">
+<a name="5_2" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_5_2" class="lemma-anchor " ></a>
+<a name="大蒜美乃滋" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>大蒜美乃滋</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/cf1b9d16fdfaaf51e0c2c9f28c5494eef01f7a5d?fr=lemma&ct=single" target="_blank"
+		title="大蒜美乃滋" style="width:220px;height:146px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=fa4c4857c65c1038207ec9c08210931c/cf1b9d16fdfaaf51e0c2c9f28c5494eef01f7a5d.jpg"  alt="大蒜美乃滋" style="width:220px;height:146px;"/>
+</a>
+<span class="description">
+大蒜美乃滋
+</span>
+</div><a target=_blank href="/item/%E5%A4%A7%E8%92%9C%E7%BE%8E%E4%B9%83%E6%BB%8B"><b>大蒜美乃滋</b></a>常被人称为普罗旺斯的奶油，可见其受欢迎的程度，如同名字的直接翻译，就是<a target=_blank href="/item/%E7%BE%8E%E4%B9%83%E6%BB%8B">美乃滋</a>与大蒜的混合，简单的不得了，但是搭配的食物可是洋洋洒洒，从水煮蛋、蒸鱼、到各色龙虾料里都能搭配得宜。</div>
+<div class="para" label-module="para">美乃滋又叫蛋黄沙拉酱，最早的发源地在地中海的美乃岛，名称也因此而来。传闻是18世纪的法国一位<a target=_blank href="/item/%E5%85%AC%E7%88%B5">公爵</a>（或是其厨师）发明了美乃滋，命名Mahonnaise；另一种说法是贝庸（Bayonne）小镇的贝庸酱（Bayonnaise），后来辗转变成 Mayonnaise。</div>
+<div class="para" label-module="para">制作美乃滋，所有的材料必需维持在同一温度，从冰箱拿出鸡蛋，先回复室温，将蛋黄拿出，洒上糖，搅拌均匀，慢慢地倒进油脂（橄榄油、花生油、色拉油皆可），然后以同样的速度、同样的方向轻轻搅匀，等到浓稠度逐渐增加时，再徐徐倒入油脂，最后加入醋或是柠檬汁，以调和味道。</div><div class="anchor-list">
+<a name="5_3" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_5_3" class="lemma-anchor " ></a>
+<a name="马赛鱼汤" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>马赛鱼汤</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/6c224f4a20a44623a7ef17649e22720e0cf3d78b?fr=lemma&ct=single" target="_blank"
+		title="马赛鱼汤" style="width:220px;height:146px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=1d033767fe1986184547e8867aed2e69/6c224f4a20a44623a7ef17649e22720e0cf3d78b.jpg"  alt="马赛鱼汤" style="width:220px;height:146px;"/>
+</a>
+<span class="description">
+马赛鱼汤
+</span>
+</div><b>马赛鱼汤<b>：</b></b>其实整个法国都有属于自己的鱼汤，只是内容稍微有异，再冠上不同的名称而已，如<a target=_blank href="/item/%E5%B8%83%E5%88%97%E5%A1%94%E5%B0%BC">布列塔尼</a>（Brittany）的cotriade、<a target=_blank href="/item/%E5%8B%83%E8%89%AE%E7%AC%AC">勃艮第</a>（Burgundy）的pauchouse。也不知怎么一回事，就是普罗旺斯，尤其是马赛这儿的鱼汤特别有名，凡是造访马赛者绝不能空嘴而归。</div>
+<div class="para" label-module="para">鱼汤的历史已超过2500年，据传是希腊人带进法国的，不过就算没有希腊人的引导，位处于地中海的马赛迟早也会创造出鱼汤来。<a target=_blank href="/item/%E9%A9%AC%E8%B5%9B%E9%B1%BC%E6%B1%A4">马赛鱼汤</a>的重点就在各色各样精采的鱼种，提起鱼种，故事又长了。到底鱼汤中应该或不应该放入那些鱼，你永远得不到一致的答案。比较可以确定的是，传统的马赛鱼汤是没有贝类的，尤其是淡菜绝对不能出现，但是<a target=_blank href="/item/%E8%9E%83%E8%9F%B9">螃蟹</a>和龙虾并不禁止。此标准并非放诸四海，你不妨仔细瞧瞧自己碗里的内容为何。</div>
+<div class="para" label-module="para"><b>做法与吃法：</b>用上好的橄榄油炒香<a target=_blank href="/item/%E6%B4%8B%E8%91%B1">洋葱</a>、<a target=_blank href="/item/%E8%A5%BF%E7%BA%A2%E6%9F%BF">西红柿</a>、<a target=_blank href="/item/%E5%A4%A7%E8%92%9C">大蒜</a>、<a target=_blank href="/item/%E8%8C%B4%E9%A6%99">茴香</a>，加入百里香、意大利香菜及月桂叶，并以干橙皮调味，最后放入番红花增加色泽，然后再加入鱼肉。与我们的假想不同，烹煮马赛鱼汤的时间并不长，得用大火在15分钟内完成（这当然不包括准备高汤的时间，只是真有必要以高汤为底吗？恐怕又是一个问题）。食用时汤与鱼肉是分开盛放的，在碗里摆上一片面包，直接将汤汁舀入，如果能再搭配些许的rouille就更完美了。</div><div class="anchor-list">
+<a name="5_4" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_5_4" class="lemma-anchor " ></a>
+<a name="大蒜辣椒酱" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>大蒜辣椒酱</h3>
+</div>
+<div class="para" label-module="para">所谓的rouille就是大蒜辣椒酱，其原料有大蒜、辣椒、橄榄油、<a target=_blank href="/item/%E9%9D%A2%E5%8C%85%E5%B1%91">面包屑</a>与鱼高汤。有人喜欢先把它涂抹在面包上，或者你也可以直接放在鱼汤内，有了大蒜辣椒酱，马赛鱼汤才算完整。</div><div class="anchor-list">
+<a name="5_5" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_5_5" class="lemma-anchor " ></a>
+<a name="美酒" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>美酒</h3>
+</div>
+<div class="para" label-module="para">如果把普罗旺斯和一种植物联系起来，全世界游客都会选熏衣草，但当地人大都会选茴香。</div>
+<div class="para" label-module="para">很久以前，普罗旺斯盛产苦艾酒，它让人产生幻觉并上瘾。因为酒精含量过高经常有酒客失明或发狂。<a target=_blank href="/item/%E6%A2%B5%E9%AB%98">梵高</a>因为这种酒割掉自己的耳朵。大约在1915年，当“苦艾酒”成为“禁酒运动”的替罪羊的时候，“苦艾酒”便被打上了“万恶之源”的标记。</div>
+<div class="para" label-module="para">几乎是在禁止“苦艾酒”命令下达后，不一会儿，有个隐士用八角茴香酿出了新酒，“茴香酒”问世了。这种<a target=_blank href="/item/%E8%8C%B4%E9%A6%99%E9%85%92">茴香酒</a>在一场<a target=_blank href="/item/%E7%98%9F%E7%96%AB">瘟疫</a>中救了普罗旺斯人。“茴香酒”成为了“苦艾酒”的替代品。饮用“茴香酒”的传统，起源于“苦艾酒”，而“苦艾酒”是具有“<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/d01373f082025aaf6cf66f3bffedab64024f1a7d?fr=lemma&ct=single" target="_blank"
+		title="" style="width:220px;height:160px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=01c4540f3fc79f3d8be1e3328aa3cdbc/d01373f082025aaf6cf66f3bffedab64024f1a7d.jpg"  alt="" style="width:220px;height:160px;"/>
+</a>
+</div>茴芹”和“苦艾”香味的酒精饮品。饮用“苦艾酒”的适当方法是向玻璃杯里添加一些“苦艾酒”，随后倒入冰水和一块方糖，并使用一支调制“苦艾酒”的专用调匙搅拌均匀后饮用。基本上，人们可以控制“苦艾酒”的“甜度”和“浓度”。当时，在转换、过度的过程中，有些制造商们设法使酿制“茴香酒配方”尽量类似于“苦艾酒”，而其他一些制造商们决定开创一种新型的饮品。Henri Bardouin被视为一种纯正的、老风格的茴香酒且制造商们设法使其口感保持原始的“苦艾酒”味道。还有，当时为了复制该酒的味道，人们已经开始把“香草”和“酒精”混合起来进行试验。在众多酿制蒸馏师中，有位名叫Paul Ricard的蒸馏师，他把他的试验带到了各种酒吧内并要求酒吧内的酒客们尝试他的试验并因此使其配方完美化。</div>
+<div class="para" label-module="para">1932年，Paul Ricard开展他的商业生产“Ricard”-真正的法国马赛茴香酒（le vrai pastis de Marseille）。至今“茴香酒”作为法国最受欢迎的开胃酒之一。“茴香酒”经常使用在味美的鱼、贝壳类、猪肉和鸡肉菜肴中。此外，添加过的色素和<a target=_blank href="/item/%E7%84%A6%E7%B3%96">焦糖</a>，可以加强其口感但是该饮品中的主要特性仍然是“茴芹”的口感。现今，在法国，茴香酒仍然是消耗量最大的利口酒。由于普罗旺斯盛产茴香，家家自酿。外销的酒都是口味清淡的，而当地随便一个老奶奶酿出的茴香酒都能放倒一头牛。</div>
+<div class="para" label-module="para">当地出品优质葡萄美酒，其中20%为高级和顶级酒种。由于地中海阳光充足，Provence的葡萄含有较多的糖分。</div><div class="anchor-list">
+<a name="5_6" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_5_6" class="lemma-anchor " ></a>
+<a name="松露" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>松露</h3>
+</div>
+<div class="para" label-module="para">普罗旺斯是全球最重要的<a target=_blank href="/item/%E9%BB%91%E6%9D%BE%E9%9C%B2">黑松露</a>产地，产量占法国的80%。交易市场里面满布着诡异的气氛，满街的人神秘地交头接耳。看货、讲价、交易全都隐蔽地进行，在这里是看不见松露摊子的。以游客的角度来看，法国Lalbenque的松露市场最值得前往参观，业余买主可以进场采买。松露猎人会将松露放在藤篮内，排成一排在路边的矮凳上陈列，中介商和有兴趣买的人可以看货、闻香，询价购买。</div><div class="anchor-list">
+<a name="5_7" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_5_7" class="lemma-anchor " ></a>
+<a name="大蒜西红柿面" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>大蒜西红柿面</h3>
+</div>
+<div class="para" label-module="para">【原料】</div>
+<div class="para" label-module="para">20颗蒜头、四五个成熟红西红柿。1/4杯橄榄油、1杯鲜奶油。1大匙盐、1包500公克的意大利面、研磨意大利干酪粉、九层塔丝、少许普罗旺斯香草（可省略）。</div>
+<div class="para" label-module="para">【制作过程】</div>
+<div class="para" label-module="para">1. 20颗大蒜剥皮切片。西红柿在热水中略烫过，以方便去皮去籽，然后再切成小丁。</div>
+<div class="para" label-module="para">2. 在锅中混合橄榄油和蒜片，置炉上开小火，熬卅、四十分钟，直到蒜片变软且呈金黄色。接着鲜奶油入锅，搅拌一下，把火转至最小保温，勿使沸腾，洒少许普罗旺斯混合香草。即成大蒜奶油汁。</div>
+<div class="para" label-module="para">3. 大锅中加四、五公升水，沸腾后加1大匙盐，把意大利面入锅，煮至软硬适中的弹牙程度，即可捞起，沥去水份。</div>
+<div class="para" label-module="para">4. 把大蒜奶油汁浇在面上，搅拌后，分置四只温过的盘子上，洒上干酪粉，再把西红柿丁和九层塔丝平均铺在面上，食用时由各人自行搅拌均匀.</div><div class="anchor-list">
+<a name="6" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_6" class="lemma-anchor " ></a>
+<a name="旅游信息" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">普罗旺斯</span>旅游信息</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="6_1" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_6_1" class="lemma-anchor " ></a>
+<a name="住宿" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>住宿</h3>
+</div>
+<div class="para" label-module="para">普罗旺斯的住宿相当有特色，如同当地多元化的生活风貌，从市区的豪华大饭店到乡间的民宿农庄，应有尽有，同样提供了舒适的休息环境与地方饮食。</div>
+<div class="para" label-module="para">若是本身懂法语，或能找到懂法语的人随行，可考虑在供应餐点的民宿过夜，感受当地的风俗民情。有的民宿还安排房客参加地方的活动，例如和当地人一同用餐，天南地北的闲聊起来，满天星斗下共同欢乐，那种融洽的气氛应是<a target=_blank href="/item/%E5%9C%B0%E7%90%83%E6%9D%91">地球村</a>精神的最佳呈现。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/9a504fc2d5628535013744b290ef76c6a6ef634a?fr=lemma&ct=single" target="_blank"
+		title="" style="width:220px;height:165px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=e7d1f816c9ea15ce45eee70b86013a25/9a504fc2d5628535013744b290ef76c6a6ef634a.jpg"  alt="" style="width:220px;height:165px;"/>
+</a>
+</div></div>
+<div class="para" label-module="para">艾克斯的荷内国王大饭店有100多间房，具有四星级的水准。荷内国王大饭店是艾克斯<a target=_blank href="/item/%E5%8F%A4%E5%9F%8E%E5%8C%BA">古城区</a>最高级的旅馆之一，有四颗星的评价，内部有游泳池等相当先进的设施。</div>
+<div class="para" label-module="para">旅馆有134间大小客房，从每一间房间内都可以看到美丽的花园；旅馆餐厅也供应地道的普罗旺斯美食。这间旅馆采用美式作风的管理方式，感觉上与美丽纯朴的普罗旺斯虽然有些出入，但是在结束了一天充实的行程后，却能提供您抒解身心的舒适环境。</div><div class="anchor-list">
+<a name="6_2" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_6_2" class="lemma-anchor " ></a>
+<a name="交通" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>交通</h3>
+</div>
+<div class="para" label-module="para"><b>在巴黎里昂车站搭乘<a target=_blank href="/item/TGV">TGV</a></b></div>
+<div class="para" label-module="para">巴黎有不同的火车站，接连往不同地区的火车，从巴黎要抵达普罗旺斯的火车站是<a target=_blank href="/item/%E9%87%8C%E6%98%82">里昂</a>车站（Gare de Lyon），搭乘的火车种类是时速高达300公里的法国快速火车TGV，车程约3小时。搭乘TGV需要先订位，在里昂车站的售票柜台预约订位，从火车站外面的大门左侧你会看到21号门，进去即是一排售票柜台，找到上面写着&#39;International&#39;的柜台即可，如果你使用联营火车票预约时须出示车票，预约的费用是54FF，售票员会给你一张登车卡，上面有座位号码卡。</div>
+<div class="para" label-module="para"><b>提早30分钟抵达车站找月台</b></div>
+<div class="para" label-module="para">从火车站大门进入，你可以在中庭看到巨大的时刻表，上面标示时间、班次、<a target=_blank href="/item/%E6%9C%88%E5%8F%B0">月台</a>，通常会在半小时前显示火车停靠的月台，诚挚地建议你早一点前往熟悉环境，因为月台的安排很&#39;出乎意料&#39;，而且标示不清楚，一部份的月台在车站中庭，一部份在右侧，两边距离颇远，加上火车开动时间很精确，如果弄错月台，就不妙了。</div><div class="anchor-list">
+<a name="6_3" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_6_3" class="lemma-anchor " ></a>
+<a name="物价" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>物价</h3>
+</div>
+<div class="para" label-module="para">法国餐厅午餐供应是由12：00-14：00，晚餐是由19：00-22：30或更晚。正式餐厅称为Restaurant，菜色较为精致，费用也较高，需事先订位，有些还须着正式服装，最好事先确认清楚。啤酒屋类称为Brasserie，提供海鲜冷盘、传统菜肴，营业时间较长，由早餐至宵夜。家常菜小馆称为Bistrot，提供传统家常菜，价格较便宜。小酒馆称为Bistrot au Vin，专喝葡萄酒的酒吧，只提供火腿、<a target=_blank href="/item/%E4%B9%B3%E9%85%AA">乳酪</a>等配酒小菜。自助餐厅称为Cafeteria，按所取菜肴计费，价格较一般餐厅便宜。煎饼店称为Creperie，简便的路边餐厅，专卖甜或咸的煎饼，适合点<a target=_blank href="/item/%E8%8B%B9%E6%9E%9C%E9%85%92">苹果酒</a>搭配。咖啡馆Cafe，除咖啡饮料外，也提供简便菜肴，如汉堡薯条。下午茶馆Salon de the，供应甜食，茶，及沙拉和派。饮食消费一般是北京或深圳的3倍。</div><div class="anchor-list">
+<a name="7" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_7" class="lemma-anchor " ></a>
+<a name="相关书籍" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">普罗旺斯</span>相关书籍</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="7" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<ul class="custom_dot  para-list list-paddingleft-1"><li class="list-dot list-dot-paddingleft"><div class="para" label-module="para"><b>普罗旺斯--山居岁月</b></div>
+</li></ul><div class="para" label-module="para">【英】彼得·梅尔/著<a target=_blank href="/item/%E4%BD%95%E5%8D%9A">何博</a>/译</div>
+<div class="para" label-module="para">简介：彼得·梅尔凭借其普罗旺斯系列丛书而为世人熟知。其经典旅游散文《普罗旺斯--山居岁月》和已经搬<div class="lemma-picture text-pic layout-right" style="width:163px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/cc506c8bf6fbb840c9fc7a1a?fr=lemma&ct=single" target="_blank"
+		title="" style="width:163px;height:220px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=e50c37832f2eb938e86d7df0e56385fe/32fa828ba61ea8d34cf44066970a304e241f58f9.jpg"  alt="" style="width:163px;height:220px;"/>
+</a>
+</div>上银幕的小说《恋恋酒乡》早已脍炙人口。梅尔又一次将法国南部乡村的暖阳、和风、浓浓薰衣草香镶刻在他灵动、俏皮的文字之间，字里行间无处不透露出他本人对这片土地的热爱。英国当代作家彼<sup>[3]</sup><a class="sup-anchor" name="ref_[3]_5637588">&nbsp;</a>
+得?梅尔凭借其普罗旺斯系列丛书而为世人熟知。衣草香镌刻在他灵动、俏皮的文字之中，字里行间无处不透露出他本人对这片土地的热爱。梅尔化身为<a target=_blank href="/item/%E6%A0%BC%E6%9E%97%E7%AB%A5%E8%AF%9D">格林童话</a>中神奇的花衣魔笛手，以粉丝们耳熟能详的娓娓道来的叙述风格，带着我们体味“葡萄酒庄园的微醺”，领略“纵情歌舞的祈愿节”的盛况，见识“普罗旺斯<a target=_blank href="/item/%E9%A3%9E%E8%BD%A6">飞车</a>”，考证“汉尼拔的足迹”，聆听“葡萄瓶奏鸣曲”，饱享“芬芳四溢的天堂”的<a target=_blank href="/item/%E6%9A%97%E9%A6%99%E6%B5%AE%E5%8A%A8">暗香浮动</a>，品味道道“<a target=_blank href="/item/%E6%B3%95%E5%85%B0%E8%A5%BF%E7%BE%8E%E9%A3%9F">法兰西美食</a>”。我们在跟随梅尔享受慵懒、惬意生活的同时，不时还为他的幽默捧腹大笑。他也越来越了解他那些“野蛮邻居”，解开对普罗旺斯人“吻的疑惑”，“马赛捕人套”背后的秘密。无论是跋山涉水、<a target=_blank href="/item/%E7%8E%A9%E8%BD%AC%E5%9C%B0%E7%90%83">玩转地球</a>的<a target=_blank href="/item/%E9%A9%B4%E5%8F%8B">驴友</a>，还是坐在书斋、神游环宇的读者，都能从中分享到梅尔独有的山居体验。阅读时倘能在阳光下的小院中佐以一杯<a target=_blank href="/item/%E8%91%A1%E8%90%84%E7%BE%8E%E9%85%92">葡萄美酒</a>，不胜快哉!</div>
+<div class="para" label-module="para">【目录】</div>
+<div class="para" label-module="para">一、山居岁月</div>
+<div class="para" label-module="para">二、春之序曲</div>
+<div class="para" label-module="para">三、吻之迷惑</div>
+<div class="para" label-module="para">四、夏日浓情</div>
+<div class="para" label-module="para">五、蔚蓝海岸与古铜肤色</div>
+<div class="para" label-module="para">六、闻香识此乡</div>
+<div class="para" label-module="para">七、采摘橄榄</div>
+<div class="para" label-module="para">八、秋日掠影</div>
+<div class="para" label-module="para">九、狩猎进行曲</div>
+<div class="para" label-module="para">十、普罗旺斯的圣诞节</div>
+<div class="para" label-module="para">十一、冬日恋歌</div>
+<div class="para" label-module="para">十二、漫漫冬夜融融温情</div>
+<ul class="custom_dot  para-list list-paddingleft-1"><li class="list-dot list-dot-paddingleft"><div class="para" label-module="para"><b>《普罗旺斯的一年》</b></div>
+</li></ul><div class="para" label-module="para">【英】彼得·梅尔/著　<a target=_blank href="/item/%E4%BD%95%E6%B1%9F">何江</a>/译</div>
+<div class="para" label-module="para">简介：彼得·梅尔夫妇在法国南部的普罗旺斯地区第一年的生活实录。他们住在偏远的乡村，努力修葺终于买下的历经两百年的老房子。从一月里，咆哮直下<a target=_blank href="/item/%E9%9A%86%E6%B2%B3">隆河</a>河谷的西北季风冻裂他们的水管开始，他们与当地的泥水匠、水管匠打起交道。月复一月，他们受够了工匠们的推拖迟延。他们想出的种种应付办法则让我们捧腹大笑。一年里，他们和猎野猪的农夫、采<a target=_blank href="/item/%E6%9D%BE%E9%9C%B2">松露</a>的乡人及其他乡下邻居们交上了朋友，知道了操纵山羊赛跑的秘密，避免毒蛇追踪的妙法，对于打扰他们宁静生活的观光客，也愈来愈敬而远之。</div>
+<ul class="custom_dot  para-list list-paddingleft-1"><li class="list-dot list-dot-paddingleft"><div class="para" label-module="para"><b>《永远的普罗旺斯》</b></div>
+</li></ul><div class="para" label-module="para">[英]彼得·梅尔/著 何江/译</div>
+<div class="para" label-module="para">简介：作者以其一贯的诙谐细腻的笔锋，用其特具魅力的散文写作方式，叙述普罗旺斯生活的喜乐与诱惑；<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/b7003af33a87e9500189e09c14385343faf2b4a7?fr=lemma&ct=single" target="_blank"
+		title="" style="width:220px;height:154px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=5673d1c3958fa0ec7bc7630f1696594a/b7003af33a87e9500189e09c14385343faf2b4a7.jpg"  alt="" style="width:220px;height:154px;"/>
+</a>
+</div>喜爱彼得.梅尔的书迷一路驱车赶来，偷偷潜入他的屋内触摸书中提及的大石桌；连邻居福斯坦也被要求在书上签上大名；而梅尔太太如何以<a target=_blank href="/item/%E5%96%B7%E6%B0%94%E9%A3%9E%E6%9C%BA">喷气飞机</a>的速度，欣喜若狂地载回一只毛绒绒的乘客？警察先生又如何大战圣特鲁培的天体会营员，要他们从光溜溜的裸体上掏出1500法郎的罚款？梅尔这天在花园里捡到一枚<a target=_blank href="/item/%E6%8B%BF%E7%A0%B4%E4%BB%91">拿破仑</a>金币，于是一场寻宝活动由此展开；声乐皇帝帕瓦洛蒂也来到普罗旺斯……目录：</div>
+<div class="para" label-module="para">第一章：向X先生买松露</div>
+<div class="para" label-module="para">第二章：蟾蜍合唱队</div>
+<div class="para" label-module="para">第三章：狗儿<a target=_blank href="/item/%E4%BB%94%E4%BB%94">仔仔</a></div>
+<div class="para" label-module="para">第四章：花园里的拿破仑金币</div>
+<div class="para" label-module="para">第五章：药房奇遇记</div>
+<div class="para" label-module="para">第六章：英国虾</div>
+<div class="para" label-module="para">第七章：缓速迈过五十<a target=_blank href="/item/%E5%A4%A7%E5%85%B3">大关</a></div>
+<div class="para" label-module="para">第八章：条子</div>
+<div class="para" label-module="para">第九章：穿着运动服的美食家</div>
+<div class="para" label-module="para">第十章：梅纳村狗展</div>
+<div class="para" label-module="para">第十一章：《时尚》杂志如是说</div>
+<div class="para" label-module="para">第十二章：旱季火警惊魂记</div>
+<div class="para" label-module="para">第十三章：品味“教皇新堡酒”</div>
+<div class="para" label-module="para">第十四章：与<a target=_blank href="/item/%E5%B8%95%E7%93%A6%E7%BD%97%E8%92%82">帕瓦罗蒂</a>共进晚餐</div>
+<div class="para" label-module="para">第十五章：一堂茴香酒课</div>
+<div class="para" label-module="para">第十六章：亚维隆的腹地</div>
+<div class="para" label-module="para">第十七章：夏日明信片</div>
+<div class="para" label-module="para">第十八章：逮住那条狗</div>
+<div class="para" label-module="para">第十九章：透过玫瑰色的眼镜看生活</div>
+<ul class="custom_dot  para-list list-paddingleft-1"><li class="list-dot list-dot-paddingleft"><div class="para" label-module="para"><b>《重返普罗旺斯》</b></div>
+</li></ul><div class="para" label-module="para">[英]彼得·梅尔/著 何江/译简介：本书记叙了作者<a target=_blank href="/item/%E9%87%8D%E8%BF%94%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF">重返普罗旺斯</a>的经历和感受，这里有许多让人耳目一新的精<div class="lemma-picture text-pic layout-right" style="width:159px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/ac754782eb72d1f00df4d23c?fr=lemma&ct=single" target="_blank"
+		title="" style="width:159px;height:220px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=481aa8be8a13632711edc531a18ea056/c8ea15ce36d3d539efc53ba13a87e950342ab0d3.jpg"  alt="" style="width:159px;height:220px;"/>
+</a>
+</div>彩之笔，包括在改建后的加油站举行的宴会，一次在马赛的酒店里所尝到的普罗旺斯鱼汤，以及普罗旺斯独有的鼻子学校，种植黑马铃薯的奇<sup>[4]</sup><a class="sup-anchor" name="ref_[4]_5637588">&nbsp;</a>
+怪园丁等等。</div>
+<ul class="custom_dot  para-list list-paddingleft-1"><li class="list-dot list-dot-paddingleft"><div class="para" label-module="para"><b>《一头猪在普罗旺斯》</b></div>
+</li></ul><div class="para" label-module="para"><div class="lemma-picture text-pic layout-left" style="width:220px; margin: 0px auto; clear: both; display: block; float: left;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/eac4b74543a982261bdd39d78e82b9014a90eb26?fr=lemma&ct=single" target="_blank"
+		title="" style="width:220px;height:220px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=4664f148d03f8794d7ff4f2ce21a0ead/eac4b74543a982261bdd39d78e82b9014a90eb26.jpg"  alt="" style="width:220px;height:220px;"/>
+</a>
+</div></div>
+<div class="para" label-module="para">[美]<a target=_blank href="/item/%E4%B9%94%E6%B2%BB%E5%A6%AE%C2%B7%E5%B8%83%E4%BC%A6%E5%8D%97">乔治妮·布伦南</a>（Georgeanne Brennan）</div>
+<div class="para" label-module="para">简介：作者乔治妮从小就对饮食有着特殊的感悟，普罗旺斯的饮食以及当地居民淳朴自然的生活观也影响了她的一生。在全书八个章节中，各章都有一种经典的主题食物登场。以美食为主线，作者用法国式的优雅语言为我们讲述了八段关于“膳食、孩子、动物、美食、地方和家”的经历。每段经历都如童话般唯美，带着食物的质感与醇香，完美的组合在一起，成为一段<a target=_blank href="/item/%E7%BE%8E%E5%91%B3%E4%B9%8B%E6%97%85">美味之旅</a>。</div>
+<div class="para" label-module="para">作者对美食与各种食材的迷恋使得全书字里行间都弥漫着令人陶醉的味道，迷迭香，乳酪，茴香酒，奶油烤菜……掩卷之余，回味无穷。</div>
+<div class="para" label-module="para">本书不但是一幅关于法国饮食文化的全景图，更是忙碌生活中的一个明媚角落，用美食教会你领悟生活，善待自己，感恩于自然的慷慨。</div>
+<div class="para" label-module="para">美景旖旎，美食饕餮，一次普罗旺斯的味觉之旅。</div>
+<ul class="custom_dot  para-list list-paddingleft-1"><li class="list-dot list-dot-paddingleft"><div class="para" label-module="para"><b>《永恒的普罗旺斯》</b></div>
+</li></ul><div class="para" label-module="para"><b>作者：符号</b></div>
+<div class="para" label-module="para"><b>简介：</b>诗人笔下的普罗旺斯象征着一种浪漫的、理想的爱情。每个人的心中都曾经期待过美好的爱情，浪漫、纯真、令人窒息的心跳，但生活在这个纷繁复杂的世俗世界，我们却不断地迷失了对这种世间最真挚的感情的渴望和追求。因为我们害怕伤害，我们害怕拒绝，我们害怕掏心的付出之后，却最终得不到自己<a target=_blank href="/item/%E6%83%B3%E8%A6%81%E7%9A%84%E5%B9%B8%E7%A6%8F">想要的幸福</a>，这正是人生的无奈之处；但当我们在<a target=_blank href="/item/%E5%AF%92%E5%A4%9C">寒夜</a>里独自悲叹，你是否后悔曾经的放弃？我想多少都会有一点。诗集《<a target=_blank href="/item/%E6%B0%B8%E6%81%92%E7%9A%84%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF">永恒的普罗旺斯</a>》，记载的是作者年轻时纯真的感情，共计九十九篇，经典诗篇《眼泪》《千年之恋》《生死之恋》《嘱咐》等，抒写的是作者符号曾经拥有的忘我的热恋；作者充满热情的文字，诗歌中饱含的淡淡忧伤，深深的触发着每一个读者内心深处的那一抹永恒的热情；<a target=_blank href="/item/%E5%9B%A0%E4%B8%BA%E7%88%B1%E6%83%85">因为爱情</a>是我们每个人心中共同的渴望，也是最值得我们为之坚守一生的情感。让我们共同筑起爱的桥梁，证明这个世界依然有爱。很多年以后，当我们细细的品味这些饱含深情的文字，饱经风霜的脸上会洋溢幸福的微笑。</div>
+<div class="para" label-module="para"><b>《鼠尾草的法国味道》</b></div>
+<div class="para" label-module="para"><b>作者：<a target=_blank href="/item/%E5%8E%9F%E6%99%93%E5%A8%9F">原晓娟</a></b></div>
+<div class="para" label-module="para"><b>简介</b>：该书由作者博客专栏文字辑录而成，围绕旅行和美食为主题，介绍作者在普罗旺斯的见闻及感想，文字清晰独特，一刊出就获得网络及平面媒体的广泛关注。《普罗旺斯写真集》blog获得新浪首届博客大赛“最佳私人日志”一等奖，获德国之声全球博客大赛“国际最佳博客”提名，最后获得“中文最佳博客”。</div>
+<div class="para" label-module="para"><b>目录</b>：</div>
+<div class="para" label-module="para">作者序 奢侈、宁静和享乐</div>
+<div class="para" label-module="para">第一日</div>
+<div class="para" label-module="para">普罗旺斯的粉红酒</div>
+<div class="para" label-module="para">漂亮老太太和她的狗狗</div>
+<div class="para" label-module="para">让味蕾痉挛的法国面包</div>
+<div class="para" label-module="para">遭遇Mistral</div>
+<div class="para" label-module="para">城堡酒店驿站</div>
+<div class="para" label-module="para">如花朝鲜蓟</div>
+<div class="para" label-module="para">古堡里的霓裳艳影</div>
+<div class="para" label-module="para">薰衣草特写</div>
+<div class="para" label-module="para">马赛手工香皂</div>
+<div class="para" label-module="para">如此招牌</div>
+<div class="para" label-module="para">终于见到彼得·梅尔</div>
+<div class="para" label-module="para">送你一瓶酒</div>
+<div class="para" label-module="para">乡村泉水潺潺</div>
+<div class="para" label-module="para">橄榄树下的餐桌</div>
+<div class="para" label-module="para">吃到夏季松露</div>
+<div class="para" label-module="para"><a target=_blank href="/item/%E7%B1%B3%E5%85%B6%E6%9E%97">米其林</a>二星大厨的半张照片</div>
+<div class="para" label-module="para">羊肚菌、煎羊膝、节瓜花</div>
+<div class="para" label-module="para">咖啡加饼干</div>
+<div class="para" label-module="para">色彩开胃</div>
+<div class="para" label-module="para">云尼拿甜品</div>
+<div class="para" label-module="para">带一瓶果酱回家</div>
+<div class="para" label-module="para">第二日</div>
+<div class="para" label-module="para">香草庄园的<a target=_blank href="/item/%E6%85%95%E5%B0%BC%E9%BB%91">慕尼黑</a>女孩</div>
+<div class="para" label-module="para">我是<a target=_blank href="/item/%E9%BC%A0%E5%B0%BE%E8%8D%89">鼠尾草</a></div>
+<div class="para" label-module="para">罂粟遍地</div>
+<div class="para" label-module="para">樱桃满树</div>
+<div class="para" label-module="para">6月橄榄花香</div>
+<div class="para" label-module="para">香草也壮阳</div>
+<div class="para" label-module="para">石子路上跑来了一只狗</div>
+<div class="para" label-module="para">胖子爵和他的城堡</div>
+<div class="para" label-module="para">家族徽章</div>
+<div class="para" label-module="para">来自中国的瓷器</div>
+<div class="para" label-module="para">窗外</div>
+<div class="para" label-module="para">看世界的窗户</div>
+<div class="para" label-module="para">古老时代的热水器</div>
+<div class="para" label-module="para">路过废墟</div>
+<div class="para" label-module="para">木桥上的法国小女孩</div>
+<div class="para" label-module="para">他乡遇“姑娘儿”</div>
+<div class="para" label-module="para">第三日</div>
+<div class="para" label-module="para">早餐时间的老夫妇</div>
+<div class="para" label-module="para">最爱糖棒</div>
+<div class="para" label-module="para">一缕晨光</div>
+<div class="para" label-module="para">崇尚手工</div>
+<div class="para" label-module="para">白芦笋出来了</div>
+<div class="para" label-module="para">pear=poires好看又好吃的梨</div>
+<div class="para" label-module="para">毕加索的雕塑</div>
+<div class="para" label-module="para">老树发新叶</div>
+<div class="para" label-module="para">酒庄一家人</div>
+<div class="para" label-module="para">新鲜</div>
+<div class="para" label-module="para">又见樱桃</div>
+<div class="para" label-module="para">吃花？吃果？</div>
+<div class="para" label-module="para">清香橄榄酱</div>
+<div class="para" label-module="para">伤心常春藤</div>
+<div class="para" label-module="para">酒儿醒了</div>
+<div class="para" label-module="para">……</div>
+<div class="para" label-module="para">第四日</div>
+<div class="para" label-module="para">第五日</div>
+<div class="para" label-module="para">第六日</div>
+<div class="para" label-module="para">第七日</div>
+<div class="para" label-module="para"><b>《双生恋》</b></div>
+<div class="para" label-module="para">作者：饶雪漫</div>
+<div class="para" label-module="para">简介：一对孪生姐妹花面临生与死的选择。姐姐庄小雪对普罗旺斯的向日葵有着浓郁的爱。最终姐姐庄小雪葬在普罗旺斯那大片向日葵下。</div>
+<div class="para" label-module="para"><b>《普罗旺斯</b><b>怎么走？》</b></div>
+<div class="para" label-module="para">普罗旺斯并不是一个单纯的地名，它代表一种特有的爱：爱生活，爱自己。它代表你想远行的心。她叫卡伦，35岁，刚刚辞去时尚总监的职位，将自己在伦敦的华丽生活关门大吉。她正在去普罗旺斯的路上，一个人。</div>
+<div class="para" label-module="para"><b>基本资料</b></div>
+<div class="para" label-module="para">书名：《普罗旺斯怎么走？》</div>
+<div class="para" label-module="para">作者： 英 卡伦-惠勒 著</div>
+<div class="para" label-module="para">定价：35.00元<div class="lemma-picture text-pic layout-right" style="width:154px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/fcfaaf51f3deb48f736c076df01f3a292df57878?fr=lemma&ct=single" target="_blank"
+		title="普罗旺斯怎么走" style="width:154px;height:220px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=396483bb5343fbf2c12ca121807fca1e/fcfaaf51f3deb48f736c076df01f3a292df57878.jpg"  alt="普罗旺斯怎么走" style="width:154px;height:220px;"/>
+</a>
+<span class="description">
+普罗旺斯怎么走
+</span>
+</div>出版社：中信出版社</div>
+<div class="para" label-module="para">出版时间：2012年1月</div>
+<div class="para" label-module="para">书号： ISBN 978-7-5086-3144-8</div>
+<div class="para" label-module="para"><b>内容简介</b></div>
+<div class="para" label-module="para">或走，或停，原则就是看心情。</div>
+<div class="para" label-module="para">35岁的时候，时尚总监卡伦终于厌倦了伦敦的浮华、喧闹与高压，决定抛下高级公寓、高薪工作，搬去法国乡间生活。</div>
+<div class="para" label-module="para">在那里，不需要用名牌武装自己，高跟鞋也无用武之地，等着她的，是崭新的田园生活：在春日的阳光下整理花园，秋日下午漫步在山坡上采黑莓，冬日里围着壁炉烤火，夏日傍晚骑自行车穿过田野，或者在院子里小酌一杯餐前鸡尾酒。点缀其中的，是薰衣草般的浪漫邂逅。</div>
+<div class="para" label-module="para"><b>作者简介</b></div>
+<div class="para" label-module="para">卡伦-惠勒（Karen Wheeler）</div>
+<div class="para" label-module="para">曾任英国《星期日邮报》时尚总监，《金融时报消费杂志》与《每日邮报》特约撰稿人，作品亦见于《伦敦标准晚报杂志》、《你》杂志、《泰晤士报周日时尚杂志》及诸多国际媒体。</div><div class="anchor-list">
+<a name="8" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_8" class="lemma-anchor " ></a>
+<a name="影视作品" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">普罗旺斯</span>影视作品</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="8" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">2006年热播的<a target=_blank href="/item/%E7%90%BC%E7%91%B6">琼瑶</a>电视剧《<a target=_blank href="/item/%E5%8F%88%E8%A7%81%E4%B8%80%E5%B8%98%E5%B9%BD%E6%A2%A6">又见一帘幽梦</a>》在法国的场景就是在普罗旺斯取景拍摄的。</div>
+<div class="para" label-module="para">台湾也在21世纪初拍过以薰衣草为主题的电视剧《薰衣草》，由<a target=_blank href="/item/%E9%99%88%E6%80%A1%E8%93%89">陈怡蓉</a>和<a target=_blank href="/item/%E8%AE%B8%E7%BB%8D%E6%B4%8B">许绍洋</a>主演.</div><div class="anchor-list">
+<a name="8_1" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_8_1" class="lemma-anchor " ></a>
+<a name="电影" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>电影</h3>
+</div>
+<div class="para" label-module="para">《薰衣草》由<a target=_blank href="/item/%E5%8F%B6%E9%94%A6%E9%B8%BF">叶锦鸿</a>执导，投资约2千万港币，由曾二度合作的<a target=_blank href="/item/%E9%87%91%E5%9F%8E%E6%AD%A6">金城武</a>、<a target=_blank href="/item/%E9%99%88%E6%85%A7%E7%90%B3">陈慧琳</a>联手演出，并专程到法国南部盛开紫色薰衣草的普罗旺斯取景拍摄，靓人靓景，画面极其浪漫唯美。人气狂飙、广告身价已达八位数字的金城武，这次是以3百万港币的“友情价”接拍本片，在片中他饰演天使一角，造型包括一对长达三尺的“天使翼”。陈慧琳为了演好香薰治疗师，还特地拜师学艺，每天花2小时练习香薰按摩术，以求惟妙惟肖。</div><div class="anchor-list">
+<a name="8_2" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_8_2" class="lemma-anchor " ></a>
+<a name="音乐" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>音乐</h3>
+</div>
+<div class="para" label-module="para">新世纪乐团<a target=_blank href="/item/%E7%8F%AD%E5%BE%97%E7%91%9E">班得瑞</a>首张新世纪专辑《仙境》之第九首曲子</div><div class="anchor-list">
+<a name="8_3" class="lemma-anchor para-title" ></a>
+<a name="sub5637588_8_3" class="lemma-anchor " ></a>
+<a name="诗歌" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">普罗旺斯</span>诗歌</h3>
+</div>
+<div class="para" label-module="para"><b>关于普罗旺斯</b></div>
+<div class="para" label-module="para">闻闻薰衣草的香味，就可以知道情人有多爱你</div>
+<div class="para" label-module="para">与其说薰衣草是开在田野中大片大片的紫，飘在空中的香，不如说是记忆里的东西。</div>
+<div class="para" label-module="para">收割薰衣草，如同收割幸福的爱情</div>
+<div class="para" label-module="para">陶醉在紫色的花海中，爱情如此甜蜜</div>
+<div class="para" label-module="para">风起的时候，薰衣草的味道总会飘近身边</div>
+<div class="para" label-module="para">阳光下的香味，弥漫着思念</div>
+<div class="para" label-module="para">记忆就象薰衣草，一起走过的爱情不能忘</div>
+<div class="para" label-module="para">走在薰衣草中用力呼吸，空气有了不同的口味</div>
+<div class="para" label-module="para">“薰衣草代表真爱”是伊莉莎白时代最具代表性的抒情诗</div>
+<div class="para" label-module="para">薰衣草的香是人生中的某种半梦半醒的状态，淡到了极处，却又刻在心底。</div>
+<div class="para" label-module="para">当你和情人分离时，可以藏一小枝薰衣草在情人的书里头，在你们下次相聚时，再看看薰衣草的颜色，闻闻薰衣草的香味，就可以知道情人有多爱你。</div>
+<div class="para" label-module="para">薰衣草呀，遍地开放。</div>
+<div class="para" label-module="para">蓝花绿叶，清香满怀。</div>
+<div class="para" label-module="para">我为国王，你是王后。</div>
+<div class="para" label-module="para">抛下硬币，许个心愿。</div>
+<div class="para" label-module="para">爱你一生，此情不渝。</div>
+<div class="para" label-module="para">——<a target=_blank href="/item/%E8%8B%B1%E5%9B%BD%E6%B0%91%E8%B0%A3">英国民谣</a>《薰衣草》</div>
+<div class="para" label-module="para">风起的时候，是你的味道，是爱情的味道……来过</div>
+<div class="para" label-module="para">普罗旺斯，浪漫无止境</div>
+<div class="para" label-module="para">普罗旺斯就是一首爱的诗歌，任何人都不可能生活在此而不动容。</div>
+<div class="para" label-module="para">“其实，爱一个人不必要朝朝暮暮；喜欢普罗旺斯也不见得一定要日日赤着脚徜徉在薰衣草的花海中。任何时候，任何地方，只要偶然看见一缕阳光，闻到一丝芬芳，就能在心中漾开一片紫色的田野。”</div>
+<div class="para" label-module="para">薰衣草的香，没有奢华，没有妖艳。</div>
+<div class="para" label-module="para">只是淡淡的清香，那么的宁静而幸福。</div>
+<div class="para" label-module="para">浪漫而迷情的地方，是<a target=_blank href="/item/%E6%A2%A6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9">梦开始的地方</a>，是爱情开始的地方。</div>
+<div class="para" label-module="para">法国普罗旺斯：紫色的骑士爱情</div>
+<div class="para" label-module="para">如果我们能够寻到<a target=_blank href="/item/%E5%BF%83%E7%81%B5%E7%9A%84%E5%AE%81%E9%9D%99">心灵的宁静</a>，那么，在哪里都能找到普罗旺斯，在哪里都是普罗旺斯</div>
+<div class="para" label-module="para">我是一个匆忙的都市人，我享受着繁华，失去了健康和宁静，我哈欠连天，没有胃口，脾气暴躁，没精打采，还有轻微的妄想症。突然间，我想逃，远离这一切……我找到了普罗旺斯，在这里静境地度过了一年。我是幸运的，在别的地方，也许你永远只是一个观光客，但在这里，我感到悠然自得、无怨无悔、喜悦满怀。感谢上帝，让我与普罗旺斯同在。</div>
+<div class="para" label-module="para">“普罗旺斯化”一个多么新鲜古怪的词。他们这样说我，我想这样也不坏。至少，我从来没像这么快乐幸福。生活是如此美好，无须牵挂，连时光的流动，似乎都是轻缓慵懒的。我喜欢，我愿意，在普罗旺斯的拥抱中改变。</div>
+<div class="para" label-module="para">逃逸都市，享受慵懒，在普罗旺斯做时间的盗贼</div>
+<div class="para" label-module="para"><b>薰衣草上流淌的鲜血</b></div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-left" style="width:140px; float: left;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/b258f5c4be659c918226acfe?fr=lemma&ct=single" target="_blank"
+		title="梵高传" style="width:140px;height:140px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://imgsa.baidu.com/baike/s%3D220/sign=396efa2795cad1c8d4bbfb254f3e67c4/9f510fb30f2442a7d01317add143ad4bd113029c.jpg"  alt="梵高传" style="width:140px;height:140px;"/>
+</a>
+<span class="description">
+梵高传
+</span>
+</div>南普罗旺斯的古老小城阿尔（Arles），以热烈明亮的地中海阳光和时尚的艺术风格闻名。</div>
+<div class="para" label-module="para">阿尔，罗马时代就是普罗旺斯的首府，其语名字“Arles”意为“沼泽旁的小镇”，然而真正让它沸腾起来的，是梵高。梵高在阿尔的时间不到3个月，但他一生中最丰富奔放的生活是在这里渡过的.</div>
+<div class="para" label-module="para">那是个阳光明媚的午后 ，梵高和后期印象派大画家<a target=_blank href="/item/%E9%AB%98%E6%9B%B4">高更</a>一道去找了两个要好的姑娘。在愉快的交谈中，梵高对其中一位被他爱慕的女孩说：“小姐，我该送件什么样的礼物给你呢？”那位比他年龄小得多的女孩开玩笑地拉着他的左耳朵说：“就要这个。”然后哈哈大笑。</div>
+<div class="para" label-module="para">梵高送走好朋友后，回到居室。他用左手扯住耳朵，操起一把锋利的水果刀，想了想，然后嚓地一声把耳朵割下来。然后又用刚才那女孩送给他的一方小手绢，细心地把耳朵包好，交给邻居给女孩送去。那天真的女孩喜孜孜地解开手绢，一看是只血淋淋的人耳朵，顿时昏厥过去。从此，她不敢再和梵高交往。</div>
+<div class="para" label-module="para">对于这种超乎常规思维的举动，那普通的女孩也许会认为梵高是十足的疯子。因为她永远听不懂梵高用这种认真的声音向她表明了对爱慕的诚恳。这样，那女孩也许不可挽回地与一个男人、一次归宿失之交臂。敢于操刀割自己的耳朵给心爱的人，也表现了梵高这位卓尔不群的艺术家超乎常人的真诚和勇气。人是生活在<a target=_blank href="/item/%E4%B8%89%E7%BB%B4%E7%A9%BA%E9%97%B4">三维空间</a>的动物，当这种真诚和勇气超过人们认识的极限时，就被理解为不可思议。</div>
+<div class="para" label-module="para">梵高是疯子，可是世界上居然还有人为他发疯。</div>
+<div class="para" label-module="para">也是在阿尔，为了捕捉阳光下明亮的线条和透剔的色彩，梵高在中午太阳最毒的时候作画，烈日的曝晒使他过早地秃顶。有一天，他突然觉得头上的灼热感减弱了，回头一看，一位身材窈窕的美丽姑娘为他打着伞。原来，这位庄园主的女儿被他近乎残酷的艺术追求所感动。从此，姑娘每天准时来给梵高打伞，他们深深地相爱了。后来，梵高到庄园主家里求婚。庄园主一听<a target=_blank href="/item/%E4%B8%8D%E5%90%8D%E4%B8%80%E6%96%87">不名一文</a>穷困潦倒的小画匠竟然要娶他的女儿，差点气背过去。而梵高却非常认真地对他说：“先生，我现在的确很不出名，我的画卖不出去，我的确很穷，不瞒你说，有时我连每天买两片面包的钱也没有。但是，请你相信，我的画有一天会卖大价钱的，我会对你女儿好的！”庄园主闻此气得大吼：“胡说些什么，快把这个穷疯子赶出去！”于是，可怜的梵高被凶恶的家丁推到门外。悲愤的梵高恨不得一枪结果了自己。<a class="lemma-album layout-right nslog:10000206" title="普罗旺斯"  href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/2589372/dc15484e31fc3d51b2de055a?fr=lemma&ct=cover" target="_blank"  style="width:222px;" nslog-type="10000206">
+<div class="album-wrap" style="width:220px;height:165px;">
+<img class="picture" alt="普罗旺斯" src="https://imgsa.baidu.com/baike/s%3D220/sign=99230508352ac65c63056171cbf3b21d/a6efce1b9d16fdfa0cf51f86b48f8c5494ee7b39.jpg" style="width:220px;height:165px;"/>
+</div>
+<div class="description">
+普罗旺斯<span class="number">(11张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+</div>
+<div class="para" label-module="para">此后，姑娘依然来给梵高打伞，可是在沉重的压力下，她变得一天比一天憔悴。终于有一天，她站在梵高身后，边打伞边伤感地说些莫名其妙的话，但是正专心作画的梵高没有在意。突然他觉得不对劲，回头看见脸色乌青的姑娘瘫倒在地。梵高发疯似地丢下画笔，抱起姑娘拼命往村子里跑，边跑边像受伤的孤狼一样嚎叫。医生使服毒自杀的姑娘留下一条命，但她神经失常了。后来，姑娘被送到离阿尔不远的<a target=_blank href="/item/%E7%96%AF%E4%BA%BA%E9%99%A2">疯人院</a>。在疯人院里，她走完了漫长的余生。</div>
+<div class="para" label-module="para">姑娘的死使梵高无比伤痛，他从此终生未娶，把万千情感浇铸进崇高的绘画艺术之中。梵高辞世百年后，1992年，在日本东京的国际拍卖会上，他的一幅名画卖到了二千四百万美元，创下了举世无双的世界纪录。</div>
+<div class="para" label-module="para">阿尔的街道、房屋、酒吧，在石头古巷和小广场上，展览当今缔造潮流的大摄影师和风流人。</div>
+<div class="anchor-list">
+<a name="a" class="lemma-anchor a" ></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250?fr=lemma" target="_blank" nslog-type="10000204">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料<em class="toggle"></em></dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item " id="reference-[1]-5637588-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor"  name="refIndex_1_5637588" id="refIndex_1_5637588" title="向上跳转" href="#ref_[1]_5637588">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="http://baike.baidu.com/redirect/5eb6yhWXYNKUzLWV1o42qtY5f0qFWuKicEut56QB99QNcvRlybZLfLdpT6WE5sNLhk-8g4dUKCqZTKJJu0rK7PyfSeGkFhWSJs7dGuk" target="_blank" class="text">最美的城市---普罗旺斯<span class="linkout">&nbsp;</span></a>
+<span class="site">．大嘴外教</span><span>&#91;引用日期2012-010-10&#93;</span></li><li class="reference-item " id="reference-[2]-5637588-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor"  name="refIndex_2_5637588" id="refIndex_2_5637588" title="向上跳转" href="#ref_[2]_5637588">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="http://baike.baidu.com/redirect/6a59bjtyzFmD6f9RBhAL38-Fyaq5ane3mMz-20daT8RxaYoyEybvXCYf4HbaKyA3V-RZwuJmo4h2DeDO6fSqELQBoZv41R9uPQ0q_oESg7tRbUD7ZW8bs7X_uATsSj-BpAq2wdubREsD82ORbaUtIE2MXeGCqY8G6PJaJrN-ksX5nnafVssI8WxuwwxZjXGYGrMJ4uSzhQYi2Itq8tUIjOhKeTGHHc6U0RlAER9jzDCUp4j5NhD2QSRPRckIbczlGgyHYx7zITZvsQKOR2QuIn3jEKvkI443VRoM7w" target="_blank" class="text">跟着美食去旅行—法国南部篇<span class="linkout">&nbsp;</span></a>
+<span class="site">．法国金羊酒店（CHATEAU DE LA CHEVRE D&#39;OR)</span><span>．2015-07-30</span><span>&#91;引用日期2015-07-31&#93;</span></li><li class="reference-item " id="reference-[3]-5637588-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor"  name="refIndex_3_5637588" id="refIndex_3_5637588" title="向上跳转" href="#ref_[3]_5637588">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="http://baike.baidu.com/redirect/da9ap4gz5amcVtG_rPyLELRDqYw5ijAfObGBwn81XyB7dUsWPww1Tc6LkStbvGhuAKhlVbXoXWwDIwso5z7959qiOYdloWhFa7BxXrKnL0Udodt9_JqzAcNavt5swIl6DaAS_PE9_Rn0UnEIHeMLiut6MMk1RT_lcNbxiwaoBxMxBJ7ZV0uXEufVUG5EQCC8DOrXEgiwOj1uXV7XlF2AOQm4u-XU6NrjSlAoZTlZFufmUCEO89NnrjmHUY_4m75HhdZncrYq5xQZgpZjWTXzAhLTNQ40y2VEr3fa-_ifka6so0Ys_sGvc4dbMJchmMY-3FJQJDGd5wlu3KG1Q-aq69VPx5NwBWM" target="_blank" class="text">普罗旺斯的山居岁月<span class="linkout">&nbsp;</span></a>
+<span class="site">．百度图片</span></li><li class="reference-item " id="reference-[4]-5637588-wrap">
+<span class="index">4.</span>
+<a class="gotop anchor"  name="refIndex_4_5637588" id="refIndex_4_5637588" title="向上跳转" href="#ref_[4]_5637588">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="http://baike.baidu.com/redirect/607aF5EAg-f1bidv-3D_toVCeK2YxaiRbVMgNWCQtA8VO6V5OTSED02mA-eWvnUfQFUQP2lDmpQ4l8by_52nYbBXixPrcV8mopkthOq9cUTQ25VTvuI-wdcIBGue4Kis4lYPRCkOXoR0A8NaFyPTT3eklHM7bFmSjZhRAwn72mogv3JSkjJP5pr6Yd7lXGRSl-SQOti-SCNC92FUIcS-7KJAESdwFG_XuZAp464uMilf7h0WalujXx0gDqQ-ilI-82DgwUkeoxwY09MFa8EzcS9lXye04vSR48mg8M0HuBM06COm6lPsPi2-zeSjeluunnLcgOkQRsB7Hjg" target="_blank" class="text">重返普罗旺斯<span class="linkout">&nbsp;</span></a>
+<span class="site">．百度图片</span></li><li class="reference-item " id="reference-[5]-5637588-wrap">
+<span class="index">5.</span>
+<a class="gotop anchor"  name="refIndex_5_5637588" id="refIndex_5_5637588" title="向上跳转" href="#ref_[5]_5637588">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="http://baike.baidu.com/redirect/5dbfwzZIOc94Uuha8xd5txLyv86_hypieBu9jcQVdNihLU48FPewhmdn6xdiYpB_r4CYUjX9Iov2eCNoUFB1HllEINtWB8I9czNJvfgH1VpsUgZ5F1mOof5a4PE1jLSuYoZBAtE" target="_blank" class="text">普罗旺斯<span class="linkout">&nbsp;</span></a>
+<span class="site">．瑞丽网</span></li></ul>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+外国行政区划
+</span>
+，<span class="taglist">
+地理
+</span>
+，<span class="taglist">
+地点
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic" >
+<a href="/pic/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250/0/14ce36d3d539b6002d92784feb50352ac75cb7ed?fr=lemma&amp;ct=single" target="_blank" nslog-type="10002401">
+<img src="http://h.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=90f5e60a7f1ed21b79c929e39555baf9/14ce36d3d539b6002d92784feb50352ac75cb7ed.jpg" />
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>普罗旺斯图册</div>
+</a>
+</div>
+<div id="promotion_xunke"></div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaId="7250" data-lemmaTitle="普罗旺斯"></div><div class="lemmaWgt-sideRecommend">
+<a name="zhixinWrap" class="qnAnchor"></a>
+<div class="zhixin-box" id="zhixinWrap" data-source="" data-newLemmaId="7250">
+</div>
+<form id="zhixinErrorForm" class="hidden" action="http://f3.baidu.com/index.php/feedback/zx/baikeJC" target="zhixinSubErr" method="post">
+<input class="js-url" name="fb_html_url" type="hidden" />
+<input class="js-query" name="fb_query" type="hidden" />
+<input class="js-title" name="fb_card_title" type="hidden" />
+<input class="js-content" name="fb_content" type="hidden" />
+<input class="js-souceId" name="fb_source_id" type="hidden" />
+</form>
+<iframe id="zhixinSubErr" name="zhixinSubErr" style="display:none" frameborder="0"></iframe>
+</div><div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：218次<a href="/historylist/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF/7250" class="nslog:1021" target="_blank">历史版本</a></li>
+<li>最近更新：<span class="j-modified-time" style="display:none">2017-06-01</span></li>
+<li>创建者：<a class="show-userCard" data-uid="2179405" title="查看此用户资料" target="_blank" href="http://www.baidu.com/p/%E4%B8%8D%E6%AD%BB%E7%9A%84%E7%81%AB%E5%B1%B1" nslog-type="1022">不死的火山</a></li>
+</ul>
+</dd>
+</dl>
+<div class="side-box" id="pro-contributors">
+<dl>
+<dt class="title">词条贡献榜</dt>
+<dd id="contri-div">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="topuser f12">
+<tr><td colspan="3" class="contri-type"><b>突出贡献者：</b></td></tr>
+<tr>
+<td width="22">
+</td>
+<th width="150"><a title="查看此用户资料" class="usercard show-userCard" data-uid="57166841" username="♀薰♂" target="_blank" href="http://www.baidu.com/p/%E2%99%80%E8%96%B0%E2%99%82?from=wk">♀薰♂</a></th>
+<td align="right">
+<a target="_blank" href="http://baike.baidu.com/view/12878522.htm"><img align="absmiddle" alt="初级优质" title="初级优质" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaContributors/resource/img/hq_e14e477.png" width="13" height="18"></a>
+</td>
+</tr>
+<tr>
+<td width="22">
+</td>
+<th width="150"><a title="查看此用户资料" class="usercard show-userCard" data-uid="16707381" username="xiaoninger611" target="_blank" href="http://www.baidu.com/p/xiaoninger611?from=wk">xiaoninger611</a></th>
+<td align="right">
+<a target="_blank" href="http://baike.baidu.com/view/12878522.htm"><img align="absmiddle" alt="初级优质" title="初级优质" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaContributors/resource/img/hq_e14e477.png" width="13" height="18"></a>
+</td>
+</tr>
+<tr><td style="border-bottom: 1px dashed #ccc;height:7px;" colspan="3"></td></tr>
+<tr><td style="height: 7px;" colspan="3"></td></tr>
+</table>
+</dd>
+</dl>
+</div>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#1" class="title-link">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">历史沿革</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#2" class="title-link">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">地理环境</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#2_1" class="title-link">
+<span class="text">
+<span class="title-index">2.1</span>
+<span class="title-link" nslog-type="10002802">气候</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#3" class="title-link">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">社会</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#3_1" class="title-link">
+<span class="text">
+<span class="title-index">3.1</span>
+<span class="title-link" nslog-type="10002802">人文风情</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#3_2" class="title-link">
+<span class="text">
+<span class="title-index">3.2</span>
+<span class="title-link" nslog-type="10002802">民俗</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#3_3" class="title-link">
+<span class="text">
+<span class="title-index">3.3</span>
+<span class="title-link" nslog-type="10002802">教育</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#3_4" class="title-link">
+<span class="text">
+<span class="title-index">3.4</span>
+<span class="title-link" nslog-type="10002802">活动</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#4" class="title-link">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">著名景点</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#4_1" class="title-link">
+<span class="text">
+<span class="title-index">4.1</span>
+<span class="title-link" nslog-type="10002802">薰衣草</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#4_2" class="title-link">
+<span class="text">
+<span class="title-index">4.2</span>
+<span class="title-link" nslog-type="10002802">小城</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#4_3" class="title-link">
+<span class="text">
+<span class="title-index">4.3</span>
+<span class="title-link" nslog-type="10002802">波城古堡</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#4_4" class="title-link">
+<span class="text">
+<span class="title-index">4.4</span>
+<span class="title-link" nslog-type="10002802">世外桃源</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#5" class="title-link">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">地方美食</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#5_1" class="title-link">
+<span class="text">
+<span class="title-index">5.1</span>
+<span class="title-link" nslog-type="10002802">橄榄酱</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_2" class="title-link">
+<span class="text">
+<span class="title-index">5.2</span>
+<span class="title-link" nslog-type="10002802">大蒜美乃滋</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_3" class="title-link">
+<span class="text">
+<span class="title-index">5.3</span>
+<span class="title-link" nslog-type="10002802">马赛鱼汤</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_4" class="title-link">
+<span class="text">
+<span class="title-index">5.4</span>
+<span class="title-link" nslog-type="10002802">大蒜辣椒酱</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_5" class="title-link">
+<span class="text">
+<span class="title-index">5.5</span>
+<span class="title-link" nslog-type="10002802">美酒</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_6" class="title-link">
+<span class="text">
+<span class="title-index">5.6</span>
+<span class="title-link" nslog-type="10002802">松露</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_7" class="title-link">
+<span class="text">
+<span class="title-index">5.7</span>
+<span class="title-link" nslog-type="10002802">大蒜西红柿面</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#6" class="title-link">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">旅游信息</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#6_1" class="title-link">
+<span class="text">
+<span class="title-index">6.1</span>
+<span class="title-link" nslog-type="10002802">住宿</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_2" class="title-link">
+<span class="text">
+<span class="title-index">6.2</span>
+<span class="title-link" nslog-type="10002802">交通</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_3" class="title-link">
+<span class="text">
+<span class="title-index">6.3</span>
+<span class="title-link" nslog-type="10002802">物价</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#7" class="title-link">
+<span class="text">
+<span class="title-index">7</span>
+<span class="title-link" nslog-type="10002802">相关书籍</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#8" class="title-link">
+<span class="text">
+<span class="title-index">8</span>
+<span class="title-link" nslog-type="10002802">影视作品</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#8_1" class="title-link">
+<span class="text">
+<span class="title-index">8.1</span>
+<span class="title-link" nslog-type="10002802">电影</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#8_2" class="title-link">
+<span class="text">
+<span class="title-index">8.2</span>
+<span class="title-link" nslog-type="10002802">音乐</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#8_3" class="title-link">
+<span class="text">
+<span class="title-index">8.3</span>
+<span class="title-link" nslog-type="10002802">诗歌</span>
+</span>
+</a>
+</dd>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);"></a>
+<a class="gotop-button" href="javascript:void(0);"></a>
+</div>
+</div>
+<div class="unionAd_fromPs side-box" id="unionAd_fromPs">
+<script type="BAIDU_HH">
+        {
+            type : 'pageembed',
+            di   : 'u2140330',
+            rsi0 : 270,
+            rsi1 : 175
+        }
+        </script>
+</div>
+<div id="side_box_fengchao" class="fengchao side-box" nslog="area" nslog-type="10000902">
+</div>
+<div id="side_box_unionAd" class="unionAd side-box">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你喜欢</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+<div class="bottom-promotion" id="bottom-promotion">
+<div id="BOTTOM_PRO_AD"></div>
+</div>
+</div>
+</div>
+
+<div class="wgt-footer-main">
+<div class="content">
+<dl class="fresh">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-fresh"></em>新手上路</dt>
+<dd>
+<div><a target="_blank" href="/usercenter/tasks#guide">成长任务</a></div>
+<div><a target="_blank" href="/help#main01">编辑入门</a></div>
+<div><a target="_blank" href="/help#main06">编辑规则</a></div>
+<div><a target="_blank" href="/help#main05">百科术语</a></div>
+</dd>
+</dl>
+<dl class="question">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-question"></em>我有疑问</dt>
+<dd>
+<div><a target="_blank" href="/wikiui/doubt?lemmaId=7250&fr=lemma"
+            nslog-type="10070001">我要质疑</a></div>
+<div><a target="_blank" href="http://ikefu.baidu.com/baidubaike/chat.html" nslog-type="10000003">我要提问</a></div>
+<div><a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91">参加讨论</a></div>
+<div><a target="_blank" href="/feedback">意见反馈</a></div>
+</dd>
+</dl>
+<dl class="suggestion">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-suggestion"></em>投诉建议</dt>
+<dd>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#1">举报不良信息</a></div>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#2">未通过词条申诉</a></div>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#4">投诉侵权信息</a></div>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#3">封禁查询与解封</a></div>
+</dd>
+</dl>
+</div>
+<div class="copyright">?2017&nbsp;Baidu&nbsp;<a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_en=baike&class=159&id=1047" target="_blank">百科协议</a>&nbsp;|&nbsp;<a href="/operation/cooperation" target="_blank">百度百科合作平台</a>&nbsp;|&nbsp;<span>京ICP证030173号&nbsp;</span><img class="copyright-img" width="13" height="16" src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png"></div>
+<p class="recordcode"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001" target="_blank"><i class="icon-police"></i>京公网安备11000002000001号</a></p>
+</div>
+
+<div class="lemmaWgt-searchHeader">
+<div class="layout cmn-clearfix">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-simple cmn-clearfix ">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080015" name="word" type="text" autocomplete="off" autocorrect="off" value="普罗旺斯" /><button id="search" nslog="normal" nslog-type="10080013" type="button">进入词条</button>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="close" nslog="normal" nslog-type="10080016">关闭</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="tool-buttons">
+<a class="toolButtons-edit button j-edit-link" href="javascript:;" nslog-type="10010001"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-hollow"></em>编辑</a>
+<a class="toolButtons-collect button" href="javascript:;" nslog-type="10010002"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>收藏</a>
+<a class="toolButtons-vote button top-vote" href="javascript:;" nslog-type="10010003"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em><span class="j-tool-btn-vote-num">赞</span></a>
+</div>
+<div class="user-info">
+<a class="user-link unlogin" href="javascript:;" nslog-type="10010008" target="_blank">登录</a>
+</div>
+</div></div>
+<div class="new-bdsharebuttonbox new-side-share" id="side-share">
+<span class="title">分享</span>
+<div class="side-border">
+<div class="triangle"></div>
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060101">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060301">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060001">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060201">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</div>
+</div>
+<div class="qrcode-wrapper" id="layer" style="display: none">
+<div class="bd_weixin_popup_header">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+<span>分享到微信朋友圈</span>
+</div>
+<div id="wechat-qrcode-img"></div>
+<div class="bd_weixin_popup_footer">打开微信“扫一扫”即可将网页分享至朋友圈</div>
+</div>
+<div></div><div></div>
+</body><script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common_sync_js_0_6be349d.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/dom.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/dom_670673c.js"},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/class.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/class_25b2582.js"},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/helper.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/helper_13ffc00.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/class.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/dom.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/default-setting.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/default-setting_ab105f7.js"},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/event-manager.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/event-manager_d421e2e.js"},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/guid.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/guid_869929e.js"},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances_16cc95b.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/class.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/dom.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/default-setting.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/event-manager.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/guid.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/helper.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/destroy.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/destroy_b21d723.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/dom.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/helper.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-scroll.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-scroll_016a0a5.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-geometry.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-geometry_0b38f65.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/class.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/dom.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/helper.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-scroll.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/click-rail.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/click-rail_3d3d92c.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/helper.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-geometry.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-scroll.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/drag-scrollbar.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/drag-scrollbar_bdd8509.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/dom.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/helper.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-geometry.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-scroll.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/keyboard.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/keyboard_63c7e30.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/helper.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/dom.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-geometry.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-scroll.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/mouse-wheel.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/mouse-wheel_ddf94ef.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-geometry.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-scroll.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/native-scroll.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/native-scroll_3280c2f.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-geometry.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/selection.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/selection_1d588fc.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/helper.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-geometry.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-scroll.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/touch.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/touch_927a404.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-geometry.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-scroll.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/initialize.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/initialize_e326313.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/class.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/helper.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-geometry.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/click-rail.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/drag-scrollbar.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/keyboard.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/mouse-wheel.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/native-scroll.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/selection.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/handler/touch.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update_592cfe0.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/dom.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/lib/helper.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/instances.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-geometry.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update-scroll.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/main.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/main_a4ff37b.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/destroy.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/initialize.js","wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/plugin/update.js"]},"wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/index.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/index_9da0980.js","deps":["wiki-lemma:widget/lemma_content/configModule/secondsKnow/perfect-scrollbar/src/js/main.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaInsert_17d225d.js","pkg":"wiki-lemma:p5","deps":["wiki-common:widget/component/nslog/nslog.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/tangram.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/tangram_1e4b3aa.js","pkg":"wiki-lemma:p5"},"wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip.js":{"url":"http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip_d50e02d.js","deps":["wiki-common:widget/lib/jquery/jquery.js","wiki-common:widget/util/string.js"]}},"pkg":{"wiki-lemma:p5":{"url":"http://baike.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module-lemmaRelation_782158b.js"}}});</script><script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/widget/lib/jsmart/PHPJS_3347e0a.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common_sync_js_1_1866d43.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/widget/component/userbar-n/userbar-n_d15fcff.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/widget/component/headTabBar/headTabBar_523bfd9.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/widget/component/searchbar-n/searchbar_ff0ea9e.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common_sync_js_2_7a24e62.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/widget/lib/cyberplayer/cyberplayer_d6743f0.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/widget/lib/letvPlayer/letvPlayer_c22ca45.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/widget/ui/videoPlayer/videoPlayer_bf42298.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common_sync_js_4_0c0b01b.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common_sync_js_5_62d9343.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_66d5407.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/secondsKnow/secondsKnow_d6488e1.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_587af69.js"></script>
+<script type="text/javascript">!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery.js'),
+    userbar = require('wiki-common:widget/component/userbar-n/userbar-n.js');
+    
+  userbar.buildUserbar($('#j-wgt-userbar'), null);
+}();
+!function(){  require('wiki-common:widget/component/headTabBar/headTabBar.js');
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar.js');  
+    initSearchbar($('.wgt-searchbar-main'));
+  }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var cookie = require('wiki-common:widget/util/cookie.js');
+    if (!cookie.get('baikedeclare')) {
+        $('#J-declare-wrap').css('display', 'block');
+    }
+    $('#J-declare-close').on('click', function () {
+        // 用户关闭后，不再显示，这里暂设过期时间为1年
+        cookie.set('baikedeclare', 'showed', {
+            expires: 365 * 60 * 60 * 24 * 1000
+        });
+        $('#J-declare-wrap').css('display', 'none');
+    });
+}();
+!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+
+  var timer = '';
+
+  $('.wgt-navbar').on('mouseenter', 'dl', function() {
+  clearTimeout(timer);
+  timer = setTimeout(function() {
+  $('.wgt-navbar').addClass('wgt-navbar-hover');
+}, 300);
+}).on('mouseleave', function() {
+clearTimeout(timer);
+$('.wgt-navbar').removeClass('wgt-navbar-hover');
+}).on('click', 'a', function() {
+clearTimeout(timer);
+$('.wgt-navbar').removeClass('wgt-navbar-hover');
+});
+}();
+!function(){    require('wiki-lemma:widget/lemma_content/configModule/secondsKnow/secondsKnow.js')({"secondsKnow":[{"videoSrc":{"type":"iqiyiPlayer","secondKind":"2","vid":"c82b0aeb57657e4c8d94c4bf8ceef441","tvid":"414830200","cover":"http:\/\/f.hiphotos.baidu.com\/baike\/whfpf%3D685%2C390%2C0\/sign=1249db333dfae6cd0ce1f821698e391c\/9825bc315c6034a8dbbd8285c313495409237652.jpg","cover_small":"http:\/\/f.hiphotos.baidu.com\/baike\/whfpf%3D280%2C150%2C0\/sign=9eb7a25ad5c451daf6a35fabd0c0605e\/9825bc315c6034a8dbbd8285c313495409237652.jpg"},"coverSrc":"9825bc315c6034a8dbbd8285c313495409237652","title":"\u666e\u7f57\u65fa\u65af","mediaId":"second_know_pgc_34942","secondId":45501},{"videoSrc":{"type":"baiduYunPlayer","secondKind":"1","mid":"mda-gg2ckqqy1yik6gk3","cover":"http:\/\/b.hiphotos.baidu.com\/baike\/whfpf%3D685%2C390%2C0\/sign=6771636e5b43fbf2c579f563d643fcb8\/29381f30e924b899082c3f5e66061d950a7bf640.jpg","cover_small":"http:\/\/b.hiphotos.baidu.com\/baike\/whfpf%3D280%2C150%2C0\/sign=a21628e3c1ea15ce41bbb349d03d08cb\/29381f30e924b899082c3f5e66061d950a7bf640.jpg"},"coverSrc":"29381f30e924b899082c3f5e66061d950a7bf640","title":"\u5c11\u5973\u4eec\u90fd\u60f3\u53bb\u7684\u6cd5\u56fd\u5c0f\u9547\u2014\u2014\u666e\u7f57\u65fa\u65af","mediaId":"mda-gg2ckqqy1yik6gk3","secondId":57978},{"videoSrc":{"type":"baiduYunPlayer","secondKind":"1","mid":"mda-hcacs40azqukhtxk","cover":"http:\/\/g.hiphotos.baidu.com\/baike\/whfpf%3D685%2C390%2C0\/sign=7e0e057ccafdfc03e52db0f8b202b1ac\/2e2eb9389b504fc263904387ecdde71191ef6d61.jpg","cover_small":"http:\/\/g.hiphotos.baidu.com\/baike\/whfpf%3D280%2C150%2C0\/sign=7fcfb67d32c79f3d8fb4b770dc9cff29\/2e2eb9389b504fc263904387ecdde71191ef6d61.jpg"},"coverSrc":"2e2eb9389b504fc263904387ecdde71191ef6d61","title":"\u666e\u7f57\u65fa\u65af\u98ce\u5149\u5ba3\u4f20\u7247","mediaId":"mda-hcacs40azqukhtxk","secondId":153744},{"videoSrc":{"type":"baiduYunPlayer","secondKind":"1","mid":"mda-hdgv2jd6izfwyb8e","cover":"http:\/\/d.hiphotos.baidu.com\/baike\/whfpf%3D685%2C390%2C0\/sign=9a71c3a1ba19ebc4c02d25d9e41bf9c4\/a9d3fd1f4134970ad30eeceb9ccad1c8a6865df1.jpg","cover_small":"http:\/\/d.hiphotos.baidu.com\/baike\/whfpf%3D280%2C150%2C0\/sign=90b04bf653afa40f3c939d9dcd593177\/a9d3fd1f4134970ad30eeceb9ccad1c8a6865df1.jpg"},"coverSrc":"a9d3fd1f4134970ad30eeceb9ccad1c8a6865df1","title":"\u666e\u7f57\u65fa\u65af\u6208\u5c14\u5fb7\u5c0f\u9547","mediaId":"mda-hdgv2jd6izfwyb8e","secondId":182449}],"type":"normal"}, 7250, '普罗旺斯');
+}();
+!function(){        require('wiki-lemma:widget/lemma_content/mainContent/polysemantList/polysemantList.js')();
+    }();
+!function(){        var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+        var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+        // 展现策略
+        rightCheck.editView('7250', function(res) {
+            if (!res.errno) {
+                if (res.data.divide) {
+                    $('.top-tool .split-icon').css('display', 'block');
+                }
+            }
+        });
+    }();
+!function(){    var nslog = require('wiki-common:widget/component/nslog/nslog.js');
+	require.async("wiki-lemma:widget/basicElement/collect/collect.js",function(collect){
+		collect({
+            newLemmaId:"7250",
+			lemmaId:"16831",
+			subLemmaId:"5637588"
+		});
+	});
+}();
+!function(){    require.async("wiki-lemma:widget/basicElement/topShare/topShare.js",function(topShare){
+        topShare({
+            newLemmaId: '7250'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+            } else {
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+            }
+        } else {
+            if ('1') {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+            } else {
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+            }
+        }
+    });
+}();
+!function(){	require('wiki-lemma:widget/lemma_content/mainContent/basicInfo/basicInfo.js')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var nslog = require('wiki-common:widget/component/nslog/nslog.js');
+    nslog(10002701);
+    $('.lemmaWgt-lemmaCatalog a').on('click', function () {
+           nslog(10002702);
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+    // 展现策略
+    rightCheck.editView('7250', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){	require.async(["wiki-common:widget/lib/jquery/jquery.js", "wiki-lemma:widget/lemma_content/mainContent/albumList/albumList.js", "wiki-common:widget/component/nslog/nslog.js"],function($,AlbumList,nslog){
+		var list=new AlbumList({
+			newLemmaId:"7250",
+			lemmaTitle:"普罗旺斯",
+			lemmaId:"16831",
+			subLemmaId:"5637588",
+			data:{"131346":{"coverpic":"d009b3de9c82d1581172a74b800a19d8bd3e425c","desc":"\u7cbe\u5f69\u56fe\u518c1","albumTag":"null","height":398,"width":600,"total":66,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=dc24f2cb213fb80e08d166d403d32ffb\/d009b3de9c82d1581172a74b800a19d8bd3e425c.jpg"},"150990":{"coverpic":"9345d688d43f879437cd4625d01b0ef41bd53a8e","desc":"\u6ce2\u57ce\u53e4\u5821","albumTag":"null","height":532,"width":800,"total":20,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=c541a963d309b3deefbfe36bf9bf6cd3\/9345d688d43f879437cd4625d01b0ef41bd53a8e.jpg"},"208385":{"coverpic":"dcc451da81cb39db40a4b6acd0160924aa1830e0","desc":"\u7cbe\u5f69\u56fe\u518c4","albumTag":"null","height":399,"width":600,"total":67,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=4a6755ff33fa828bd5239ae0c81e41cd\/dcc451da81cb39db40a4b6acd0160924aa1830e0.jpg"},"210733":{"coverpic":"3b292df5e0fe9925064383aa34a85edf8cb171f9","desc":"\u7cbe\u5f69\u56fe\u518c3","albumTag":"null","height":400,"width":600,"total":67,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=1b3672fe5982b2b7a39f3ec704accb0a\/3b292df5e0fe9925064383aa34a85edf8cb171f9.jpg"},"354334":{"coverpic":"d1160924ab18972bd7bde830e6cd7b899f510a40","desc":"\u7cbe\u5f69\u56fe\u518c3","albumTag":"null","height":400,"width":600,"total":67,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=fea59cfe970a304e5622a7f9e4c9a7c3\/d1160924ab18972bd7bde830e6cd7b899f510a40.jpg"},"366811":{"coverpic":"b219ebc4b74543a95666e52f1e178a82b80114d7","desc":"\u666e\u7f57\u65fa\u65af","albumTag":"null","height":268,"width":350,"total":23,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=708257cdd21b0ef468e89f5de8c551a1\/b219ebc4b74543a95666e52f1e178a82b80114d7.jpg"},"434682":{"coverpic":"908fa0ec08fa513d72ff84243d6d55fbb3fbd9f7","desc":"\u7cbe\u5f69\u56fe\u518c2","albumTag":"null","height":600,"width":397,"total":66,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=1ef82bc9738da9774a2f81288550f872\/908fa0ec08fa513d72ff84243d6d55fbb3fbd9f7.jpg"},"436666":{"coverpic":"f9198618367adab49be2154889d4b31c8701e48f","desc":"\u963f\u7ef4\u5c3c\u7fc1","albumTag":"null","height":375,"width":500,"total":40,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=05080ec1e4cd7b89ed6c3d803a244291\/f9198618367adab49be2154889d4b31c8701e48f.jpg"},"439816":{"coverpic":"b999a9014c086e062d0ee5b102087bf40bd1cba2","desc":"\u7cbe\u5f69\u56fe\u518c5","albumTag":"null","height":600,"width":896,"total":64,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=7b601427ab64034f0bcdc5059ac27980\/b999a9014c086e062d0ee5b102087bf40bd1cba2.jpg"},"458652":{"coverpic":"b812c8fcc3cec3fd5d22b896d688d43f87942730","desc":"\u666e\u7f57\u65fa\u65af\u683c\u96f7\u4e07\u535a\u7269\u9986\u666f\u70b9\u56fe\u7247","albumTag":"null","height":333,"width":500,"total":2,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=2c90e1c049540923ae69647da759d1dc\/b812c8fcc3cec3fd5d22b896d688d43f87942730.jpg"},"514561":{"coverpic":"7aec54e736d12f2e23f8739a4fc2d5628435684f","desc":"\u7cbe\u5f69\u56fe\u518c4","albumTag":"null","height":600,"width":600,"total":66,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=99fbb37fc9ea15ce45eee70a83013a25\/7aec54e736d12f2e23f8739a4fc2d5628435684f.jpg"},"540022":{"coverpic":"a8014c086e061d9552c5cac27bf40ad163d9ca4d","desc":"\u7cbe\u5f69\u56fe\u518c1","albumTag":"null","height":408,"width":600,"total":67,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=a35363ae034f78f0840b9df04c300a83\/a8014c086e061d9552c5cac27bf40ad163d9ca4d.jpg"},"559948":{"coverpic":"f31fbe096b63f6241338c3f98744ebf81b4ca3e7","desc":"\u7cbe\u5f69\u56fe\u518c2","albumTag":"null","height":400,"width":600,"total":67,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=676826eeb899a9013f355c3528940a58\/f31fbe096b63f6241338c3f98744ebf81b4ca3e7.jpg"},"593778":{"coverpic":"3812b31bb051f81967581ca9dab44aed2f73e7d0","desc":"\u666e\u7f57\u65fa\u65af\u5723\u4fdd\u7f57\u666f\u70b9\u56fe\u7247","albumTag":"null","height":333,"width":500,"total":2,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=e86481cb972bd40746c7d4fe4e889e9c\/3812b31bb051f81967581ca9dab44aed2f73e7d0.jpg"},"623403":{"coverpic":"5243fbf2b21193133dfd124a65380cd790238d8a","desc":"\u7cbe\u5f69\u56fe\u518c2","albumTag":"null","height":403,"width":600,"total":67,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=e0a1978020a446237acaa261ad237246\/5243fbf2b21193133dfd124a65380cd790238d8a.jpg"},"647515":{"coverpic":"0b46f21fbe096b63ff34505b0e338744ebf8ac8f","desc":"\u963f\u5c14\u52d2","albumTag":"null","height":425,"width":640,"total":40,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=2128240beb24b899da3c7e3b5b061d59\/0b46f21fbe096b63ff34505b0e338744ebf8ac8f.jpg"},"661429":{"coverpic":"8718367adab44aedcb33a107b31c8701a08bfbd0","desc":"\u666e\u7f57\u65fa\u65af\u666f\u70b9\u56fe\u7247","albumTag":"null","height":375,"width":500,"total":21,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=d0bacc1e7b899e517c8e3d1777a6d990\/8718367adab44aedcb33a107b31c8701a08bfbd0.jpg"},"780558":{"coverpic":"a686c9177f3e67090c5788153bc79f3df9dc5581","desc":"\u666e\u7f57\u65fa\u65af\u666f\u533a\u56fe\u518c","albumTag":"null","height":531,"width":800,"total":52,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=6a3b0b04b48f8c54e7d3c22c0f282dee\/a686c9177f3e67090c5788153bc79f3df9dc5581.jpg"},"781173":{"coverpic":"d8f9d72a6059252da5bbc8fe349b033b5ab5b998","desc":"\u7cbe\u5f69\u56fe\u518c3","albumTag":"null","height":600,"width":380,"total":66,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=7b408213f2d3572c62e29bdfbf126352\/d8f9d72a6059252da5bbc8fe349b033b5ab5b998.jpg"},"814989":{"coverpic":"08f790529822720e8fc06b007bcb0a46f21fab3a","desc":"\u7cbe\u5f69\u56fe\u518c1","albumTag":"null","height":600,"width":399,"total":67,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=302f3bcba18b87d65442ac1c32092860\/08f790529822720e8fc06b007bcb0a46f21fab3a.jpg"},"823441":{"coverpic":"d000baa1cd11728bdb3193c1c8fcc3cec3fd2c30","desc":"\u770b\u8349\u4e4b\u65c5","albumTag":"null","height":450,"width":600,"total":5,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=050496e25c6034a82de2bf82fe1249d9\/d000baa1cd11728bdb3193c1c8fcc3cec3fd2c30.jpg"},"921072":{"coverpic":"9345d688d43f879449889ed4d21b0ef41ad53ad1","desc":"\u7cbe\u5f69\u56fe\u518c4","albumTag":"null","height":401,"width":600,"total":67,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=bb047192d109b3deefbfe36bf9be6cd3\/9345d688d43f879449889ed4d21b0ef41ad53ad1.jpg"},"2589371":{"coverpic":"b29f82826fb519f36d81191f","desc":"\u666e\u7f57\u65fa\u65af-\u85b0\u8863\u8349\u7684\u6d77\u6d0b","albumTag":"","height":220,"width":166,"total":19,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=0e931fcc65380cd7e21ea5ee9445ad14\/ae51f3deb48f8c542a0325533a292df5e1fe7ffe.jpg","toppics":[{"src":"b29f82826fb519f36d81191f","owner":"\u8d1d\u8d1d\u4e56\u4e56\u7684","desc":"\u666e\u7f57\u65fa\u65af-\u85b0\u8863\u8349\u7684\u6d77\u6d0b","height":753,"width":571},{"src":"d019d2bfac6c554618d81f1f","owner":"\u8d1d\u8d1d\u4e56\u4e56\u7684","desc":"\u666e\u7f57\u65fa\u65af-\u85b0\u8863\u8349\u7684\u6d77\u6d0b","height":334,"width":500},{"src":"f765756053de5208eaf8f81f","owner":"\u8d1d\u8d1d\u4e56\u4e56\u7684","desc":"\u666e\u7f57\u65fa\u65af-\u85b0\u8863\u8349\u7684\u6d77\u6d0b","height":434,"width":600}]},"2589372":{"coverpic":"dc15484e31fc3d51b2de055a","desc":"\u666e\u7f57\u65fa\u65af","albumTag":"","height":165,"width":220,"total":11,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=f0e717aab2119313c343f8b350390c10\/a6efce1b9d16fdfa0cf51f86b48f8c5494ee7b39.jpg","toppics":[{"src":"dc15484e31fc3d51b2de055a","owner":"xujianjunfish5","desc":"\u666e\u7f57\u65fa\u65af","height":600,"width":800},{"src":"9319cf09167a70dad0581b5a","owner":"xujianjunfish5","desc":"\u666e\u7f57\u65fa\u65af","height":768,"width":1024},{"src":"b29f828276fc20e76d81195a","owner":"xujianjunfish5","desc":"\u666e\u7f57\u65fa\u65af","height":600,"width":800}]},"2968449":{"coverpic":"34fae6cd7b899e514d79ac8742a7d933c9950da9","desc":"\u666e\u7f57\u65fa\u65af","albumTag":"","height":165,"width":220,"total":24,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=d700726ba786c9170c03553afc3c70c6\/34fae6cd7b899e514d79ac8742a7d933c9950da9.jpg","toppics":[{"src":"34fae6cd7b899e514d79ac8742a7d933c9950da9","owner":"CrySora","desc":"\u666e\u7f57\u65fa\u65af","height":960,"width":1280},{"src":"b21c8701a18b87d63b3d67f4070828381e30fdda","owner":"CrySora","desc":"\u666e\u7f57\u65fa\u65af","height":563,"width":371},{"src":"c2fdfc039245d688010b7e4fa4c27d1ed31b24d4","owner":"CrySora","desc":"\u666e\u7f57\u65fa\u65af","height":327,"width":493}]},"21954801":{"coverpic":"5d6034a85edf8db1601ba0000323dd54564e7499","desc":"\u666e\u7f57\u65fa\u65af","albumTag":"","height":1200,"width":900,"total":5,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=a7fcd8f9c1ef7609380b9e9c1bdda301\/5d6034a85edf8db1601ba0000323dd54564e7499.jpg","toppics":[{"src":"5d6034a85edf8db1601ba0000323dd54564e7499","owner":"\u6d85\u78d0\u91cd\u751f_\u53ef\u597d","desc":"\u666e\u7f57\u65fa\u65af","height":1200,"width":900},{"src":"203fb80e7bec54e7bbe9c67ab3389b504fc26a49","owner":"\u6d85\u78d0\u91cd\u751f_\u53ef\u597d","desc":"\u666e\u7f57\u65fa\u65af","height":1200,"width":1920},{"src":"b2de9c82d158ccbfda89695e13d8bc3eb1354199","owner":"\u6d85\u78d0\u91cd\u751f_\u53ef\u597d","desc":"\u666e\u7f57\u65fa\u65af","height":674,"width":1077}]},"0":{"coverpic":"14ce36d3d539b6002d92784feb50352ac75cb7ed","width":"600","height":"403","desc":"\u8bcd\u6761\u56fe\u7247","total":16,"coverurl":"https:\/\/imgsa.baidu.com\/baike\/s%3D235\/sign=86eee2240afa513d55aa6bdd086c554c\/14ce36d3d539b6002d92784feb50352ac75cb7ed.jpg"}}
+		});
+		!!window.ScriptLazyLoad && window.ScriptLazyLoad.regist({
+			dom:$('.album-list'),
+			loadFunc:function(){
+				list.load();
+				nslog(1258);
+			},
+			distance:500
+		});
+	});
+}();
+!function(){		require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReference.js", "wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip.js"],function(Reference,ReferenceTip){
+			new Reference({
+				subLemmaId:"5637588"
+			});
+			new ReferenceTip({
+				subLemmaId:"5637588"
+			});
+		});
+	}();
+!function(){        require.async("wiki-common:widget/lib/jquery/jquery.js",function($){
+            function openTagToggle(node) {
+                if ($(node).hasClass("collapse")) {
+                    $(node).removeClass("collapse");
+                    $("#open-tag").css("height", '22px');
+                } else {
+                    $(node).addClass("collapse");
+                    $("#open-tag").css("height", $("#open-tag-item").css("height"));
+                }
+            }
+            if (parseInt($("#open-tag-item").css("height")) <= 30) {
+                $('#open-tag-collapse').hide();
+            }
+            $("#open-tag-collapse").on("click", function () {
+                openTagToggle($("#open-tag")[0]);
+            });
+        });
+    }();
+!function(){        require.async('wiki-lemma:widget/promotion/xunke/xunke.js', function (app) {
+            app.init({
+                lemmaTitle: '普罗旺斯',
+                adManager: null
+            });
+        });
+    }();
+!function(){        require('wiki-lemma:widget/lemma_content/configModule/zhixin/zhixin.js')(
+            7250,
+            '普罗旺斯'
+        );
+    }();
+!function(){    require.async("wiki-lemma:widget/lemma_content/mainContent/lemmaStatistics/lemmaStatistics.js",function(init){
+        init({
+            newLemmaIdEnc:"1599cf4fe5320644c9130239"
+        });
+    });
+}();
+!function(){    var userCard = require('wiki-common:widget/component/userCard/userCard.js');
+    userCard({
+        host: '#pro-contributors .show-userCard',
+        left: -26
+    });    
+}();
+!function(){	require.async("wiki-lemma:widget/lemma_content/mainContent/sideCatalog/sideCatalog.js",function(SideCatalog){
+		new SideCatalog();
+	});
+}();
+!function(){            require.async(['wiki-lemma:widget/promotion/unionAdFromPs/unionAdFromPs.js'], function (init) {
+                init({
+                    adManager: null
+                });
+            });
+        }();
+!function(){        require.async(["wiki-lemma:widget/promotion/fengchao/fengchao.js", "wiki-lemma:widget/promotion/unionAd/unionAd.js"], function (init, unionAd) {
+            init({
+                newLemmaId: "7250",
+                lemmaTitle: "普罗旺斯",
+                encodeLemmaTitle: "%C6%D5%C2%DE%CD%FA%CB%B9",
+                adManager: null
+            }, {
+                errFn: unionAd,
+                dom: $('#side_box_unionAd')
+            });
+        });
+    }();
+!function(){        require.async('wiki-lemma:widget/promotion/guessLike/guessLike.js', function (app) {
+            app.init({
+                lemmaTitle: '普罗旺斯',
+                adManager: null
+            });
+        });
+    }();
+!function(){            require.async('wiki-lemma:widget/promotion/bottomAd/bottomAd.js', function (init) {
+                init({
+                    sId: 'BOTTOM_PRO_AD',
+                    adManager: null
+                });
+            });
+        }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog.js");
+    var userLogin = require('wiki-common:widget/component/userLogin/userLogin.js');
+    var unameFiller = require('wiki-common:widget/component/unameFiller/unameFiller.js');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck.js');
+
+            var isEnterprise = false;
+        var enterpriseOwnerUserId = 0;
+    
+    var userId = 0;
+    var editUrl = '/edit/' + encodeURIComponent('普罗旺斯') + '/' + '7250';
+    var pgcUrl = '/enterprise/editpgc?lemmaId=7250';
+
+    userLogin.regist({
+        onLogin: function(user) {
+            userId = user ? user.uid : 0;
+        }
+    });
+
+    function gotoEdit(url, isMidNight) {
+        if (isMidNight) {
+            Dialog.alert({
+                title: '编辑提示',
+                subMsg: '晚23:00至次日8:00，因审核系统例行维护，您提交的版本可能需要较长时间才能通过，望您谅解。',
+                onConfirm: function() {
+                    window.location.href = url;
+                }
+            });
+        } else {
+            window.location.href = url;
+        }    
+    }
+
+    function showChoseEditDialog(pgcCallback, ugcCallback) {
+        new Dialog({
+            title: '编辑提示',
+            subMsg: '<p>您已开通企业百科服务，推荐您直接编辑“官方资料”，官方资料仅限企业百科绑定的百科账号修改，其他用户账号不可修改。</p><p>如果您想修改其他网友编辑的普通词条内容，请注意遵守百科百科编辑规则。<p>',
+            btns: [{
+            key: 'pgc',
+            text: '编辑官方资料'
+            }, {
+            style: 'white',
+            text: '修改普通词条',
+            key: 'ugc'
+            }],
+            onBtnClick: function(btnKey){
+                if (btnKey === 'pgc') {
+                    pgcCallback && pgcCallback();
+                } else if (btnKey === 'ugc') {
+                    ugcCallback && ugcCallback();
+                }
+            }
+        }).show();
+    }
+
+    function checkUserLegal(res) {
+        var legal = false;
+        switch (res.errno) {
+            case 100001:
+                userLogin.showLoginPop();
+                break;
+            case 100006:
+                unameFiller.show();
+                break;
+            default:
+                legal = true;
+        }
+        return true;
+    }
+
+    function checkUgc(res, url) {
+        if (res.errno) {
+            switch (res.errno) {
+                case 100005:
+                    alert('对不起，您目前被封禁');
+                    break;
+                case 110001:
+                    alert('对不起，该词条被锁定');
+                    break;
+                case 110007:
+                    alert('对不起，消歧页无法编辑');
+                    break;
+                case 110005:
+                    Dialog.alert({
+                    title: '编辑提示',
+                    mainMsg: '对不起，您暂时没有权限编辑该词条。',
+                    subMsg: '<p>您好，该词条内容已较丰富，现仅对百科等级达到<b>四级</b>且通过率达到<b>85%</b>的科友开放编辑。</p><p>当您通过努力达到以上要求，就可以参与编辑该词条了。</p><p><img src="http://baike.bdimg.com/img/baike/usercenter/growuptask/star.gif" class="star" />参加<a target="_blank" href="/usercenter#guide">成长任务</a>，更快掌握百科编辑技巧，加速升级！</p>'
+                    });
+                    break;
+                case 110008:
+                    Dialog.alert({
+                    title: '编辑提示',
+                    mainMsg: '对不起，您暂时没有权限编辑该词条。',
+                    subMsg: '<p>您好，该词条内容已较丰富，现仅对百科等级达到<b>六级</b>且通过率达到<b>85%</b>的科友开放编辑。</p><p>当您通过努力达到以上要求，就可以参与编辑该词条了。</p><p><img src="http://baike.bdimg.com/img/baike/usercenter/growuptask/star.gif" class="star" />参加<a target="_blank" href="/usercenter#guide">成长任务</a>，更快掌握百科编辑技巧，加速升级！</p>'
+                    });
+                    break;
+                case 470001:
+                    alert('系统错误，请刷新重试');
+                    break;
+            }
+        } else {
+            if (!res.data.right.noAudit) {
+                Dialog.alert({
+                    title: '编辑提示',
+                    subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                });
+                return;
+            }
+            gotoEdit(url, res.data.notice.isMidNight);
+        }
+    }
+
+    $(document.body).on('click', '.j-edit-link', function() {
+        var dl = $(this).attr('data-edit-dl');
+        if (dl) {
+            var url = editUrl + '?dl=' + dl;
+        } else {
+            var url = editUrl;
+        }
+
+        rightCheck.preeditCheck('7250', '普罗旺斯', '法国东南薰衣草之乡', '119034768', function(res) {
+            if (!checkUserLegal(res)) {
+                return;
+            }
+            if (isEnterprise && enterpriseOwnerUserId === userId) {
+                showChoseEditDialog(function() {
+                    location.href = pgcUrl;
+                }, function() {
+                    checkUgc(res, url);
+                });
+            } else {
+                checkUgc(res, url);
+            }
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar.js');  
+    initSearchbar($('.wgt-searchbar-simple'));
+  }();
+!function(){    require.async("wiki-lemma:widget/tools/searchHeader/toolButtons-n/toolButtons.js",function(init){
+        init({
+            lemmaId:"16831",
+            subLemmaId:"5637588",
+            newLemmaId:"7250"
+        });
+    });
+}();
+!function(){    require('wiki-lemma:widget/tools/searchHeader/toolButtons-n/userInfo.js')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js'),
+      animation = require('wiki-common:widget/util/animation.js'),
+      nslog = require('wiki-common:widget/component/nslog/nslog.js'),
+      initSearchbar = require('wiki-common:widget/component/searchbar/searchbar.js');
+
+    var isFadeIn = false,
+        isFadeOut = false;
+
+    var fadeInAni, fadeOutAni;
+
+    $(window).on('scroll', function(e) {
+        var scrollTop = $(this).scrollTop();
+
+        if (scrollTop > 200 && !isFadeIn && $('.lemmaWgt-searchHeader').css('display') == 'none') {
+            fadeOutAni && fadeOutAni.stop();
+            fadeInAni = animation({
+                duration: 200,
+                easing: 'linear',
+                onStart: function() {
+                    isFadeOut = false;
+                    isFadeIn = true;
+                    $('.lemmaWgt-searchHeader').css('display', 'block');
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', progress)
+                },
+                onComplete: function(progress) {
+                    isFadeIn = false;
+                    nslog(10010007);
+                }
+            });
+        } else if (scrollTop <= 200 && !isFadeOut && $('.lemmaWgt-searchHeader').css('display') == 'block') {
+            fadeInAni && fadeInAni.stop();
+            fadeOutAni = animation({
+                duration: 300,
+                easing: 'linear',
+                onStart: function() {
+                    $('.lemmaWgt-searchHeader #suggestion').hide();
+                    isFadeIn = false;
+                    isFadeOut = true;
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', 1 - progress);
+                },
+                onComplete: function(progress) {
+                    isFadeOut = false;
+                    $('.lemmaWgt-searchHeader').css('display', 'none');
+                }
+            });
+        }
+    });
+}();
+!function(){    require('wiki-lemma:widget/tools/newSideShare/qzopensl.js');
+    require.async("wiki-lemma:widget/tools/newSideShare/taskSideShare.js",function(taskShare){
+        taskShare.init({
+            title: '普罗旺斯',
+            desc: "\u666e\u7f57\u65fa\u65af\uff08Provence\uff09\uff0c\u5168\u79f0\u666e\u7f57\u65fa\u65af-\u963f\u5c14\u5351\u65af-\u84dd\u8272\u6d77\u5cb8\uff08Provence-Alpes-C\u00f4te d&#39;Azur\uff09\uff0c\u539f\u4e3a\u7f57\u9a6c\u5e1d\u56fd\u7684\u4e00\u4e2a\u884c\u7701\uff0c\u73b0\u4e3a\u6cd5\u56fd\u4e1c\u5357\u90e8\u7684\u4e00\u4e2a\u5730\u533a\uff0c\u6bd7\u90bb\u5730\u4e2d\u6d77\uff0c\u548c\u610f\u5927\u5229\u63a5\u58e4\uff0c\u662f\u4ece\u5730\u4e2d\u6d77\u6cbf\u5cb8\u5ef6\u4f38\u5230\u5185\u9646\u7684\u4e18\u9675\u5730\u5e26\u3002\u4e2d\u95f4\u6709\u5927\u6cb3\u9686\u6cb3\uff08Rhone\uff09\u6d41\u8fc7\u3002\u4ece\u963f\u5c14\u5351\u65af\u5c71\u7ecf\u91cc\u6602\u5357\u6d41\u7684\u7f57\u8bb7\u6cb3\uff08Rhone\uff09\uff0c\u5728\u666e\u7f57\u65fa\u65af\u9644",
+            pic: 'https:\/\/imgsa.baidu.com\/baike\/w%3D268\/sign=429af03341166d22387712927e220945\/14ce36d3d539b6002d92784feb50352ac75cb7ed.jpg',
+            url: '',
+            qqPic: 'http:\/\/h.hiphotos.baidu.com\/baike\/whfpf%3D403%2C403%2C50\/sign=c668f1169e82d158bbd70af1e6372de8\/14ce36d3d539b6002d92784feb50352ac75cb7ed.jpg',
+            newLemmaId: '7250',
+            lemmaTitle: '普罗旺斯'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+    var nslog = require("wiki-common:widget/component/nslog/nslog.js");
+    var testElem = require('wiki-common:widget/component/testElem/testElem.js');
+    var cmsModuleLoader = require('wiki-common:widget/component/cmsModuleLoader/cmsModuleLoader.js');
+
+    function requireAsync() {
+        require.async('wiki-lemma:widget/tools/announcement/announcement.js');
+    }
+
+    cmsModuleLoader('/api/wikiui/getlemmaconfig', [{
+        name: 'announcement',
+        script: 'wiki-lemma:widget/tools/announcement/announcement.js'
+    }]);
+
+    require.async("wiki-lemma:widget/tools/lazyLoad/lazyLoad.js", function(LazyLoad) {
+        new LazyLoad();
+    });
+
+    require.async(['wiki-common:widget/component/nslog/nslog.js', 'wiki-common:widget/lib/jquery/jquery.js'], function(nslog, $) {
+        nslog().setGlobal({
+            lemmaId: "16831",
+            newLemmaId: "7250",
+            subLemmaId: "5637588",
+            lemmaTitle: "普罗旺斯"
+        });
+
+        // 词条页 pv
+        nslog(9322);
+
+        // 新版头部pv（小流量）
+        if ($('.pc-header-new').length > 0) {
+            nslog(9069);
+        }
+
+        // 链接点击 pv
+        var lemmaPageRegExp = new RegExp(/\/subview\/\d+|\/view\/\d+|\/item\//i);
+        $('body').on('mousedown', 'a', function() {
+            var href = $(this).attr('href');
+            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0) {
+                // 链接点击 pv
+                nslog(10000001);
+                if (lemmaPageRegExp.test(href)) {
+                    // 词条页链接点击 pv
+                    nslog(10000002, window.location.href, {
+                        targetTitle: $(this).text()
+                    });
+                }
+            }
+        });
+
+        /****** 词条页站内流转需求统计 start ******/
+        (function () {
+            // 各种统计配置
+            var circulationLinkCfg = {
+                innerLink: [ // 内链
+                    '.para',
+                    '.lemmaWgt-baseInfo-simple-largeMovie',
+                    '.lemmaWgt-baseInfo-simple-largeStar',
+                    '.basic-info .basicInfo-block',
+                    '.lemma-summary',
+                    '.lemmaWgt-lemmaSummary',
+                    '.view-tip-panel',
+                    '.horizontal-module',
+                    '.lemmaWgt-roleIntroduction',
+                    '.dramaSeries .dramaSerialList',
+                    '.module-music',
+                    '.table-view',
+                    '[log-set-param="table_view"]',
+                    '.list-module',
+                    '.cell-module',
+                    '.baseBox .dl-baseinfo', // 配置后台字段
+                    '.pvBtn-box .leadPVBtnWrapper',
+                    '.drama-actor',
+                    '#staffList',
+                    '.starMovieAndTvplay',
+                    '.main_tab:not(.main_tab-defaultTab)' // 除去词条tab外的tab
+                ],
+                relationTable: '.rs-container-foot', // 关系表
+                peopleRelation: '.star-info-block.relations, .lemmaWgt-focusAndRelation', // 人物关系（明星+普通）
+                moduleActors: '.featureBaseInfo .actors, .lemmaWgt-majorActors', // 主要演员、嘉宾、主持人
+                moduleWorks: '.featureBaseInfo .works, .large-feature .works', // 代表作品
+                moduleQuarterly: '.featureBaseInfo .po_quarterly, .mian_quarterly', // 分季介绍
+                rankStar: '.rank-list.stars-rank', // 明星榜
+                rankDrama: '.drama-rank-list', // 电视剧榜
+                specialTopic: '.special-topic', // 专题模块
+                modDetailTable: '#modDetailTable', // 关系表出图
+                chuizhitu: '.chuizhitu', // 垂直化模块
+                polysemantList: '.polysemantList-wrapper' // 义项切换
+            };
+            /****** 连接统计 ******/
+            function clickNslogFn() {
+                for (var k in circulationLinkCfg) {
+                    if (k === 'innerLink') {
+                        // 词条内链到词条页
+                        var tempArr = circulationLinkCfg[k];
+                        for (var i = 0, l = tempArr.length; i < l; i++) {
+                            tempArr[i] += ' a';
+                        }
+                        var sSelector = tempArr.join(', ');
+
+                        $('body').on('mousedown', sSelector, {key: k},function(e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            var tar = $(this).attr('target') || '';
+                            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0
+                            && tar === '_blank' && lemmaPageRegExp.test(href)) {
+                                // 词条页普通内链点击 pv
+                                nslog(10000004, null ,{division: key});
+                            }
+                        });
+                    } else {
+                        // 模块到词条页链接
+                        $(circulationLinkCfg[k]).on('mousedown', 'a', {key: k}, function (e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            if (href && href.indexOf('#') !== 0 && lemmaPageRegExp.test(href)) {
+                                // 词条页配置模块链接点击 pv
+                                nslog(10000004, null, {division: key});
+                            }
+                        });
+                    }
+                }
+            }
+            // 发起统计请求
+            clickNslogFn();
+
+            /****** 各模块展现量pv ******/
+            function checkModuleIsShow() {
+                var result = [];
+                for (var k in circulationLinkCfg) {
+                    if (k !== 'innerLink' && k !== 'relationTable') {
+                        !!$(circulationLinkCfg[k]).html() && result.push(k);
+                    }
+                }
+                if (result.length > 0) {
+                    nslog(10000005, null, {showModules: result.join(',')});
+                }
+            }
+            checkModuleIsShow();
+
+        })();
+        /****** 词条页站内流转需求统计 end ******/
+
+    });
+
+    // 广告接入 wikiad 统一加载
+    // log 词条页广告被拦截情况（此处 log 请求行为）
+    nslog(70000101, window.location.href, {
+        api: 'lemma-ad',
+        action: 'request'
+    });
+    $.ajax({
+        type: 'GET',
+        url: '/api/wikiad/getsquirrels',
+        data: {
+            lemmaId: 7250
+        },
+        cache: false,
+        dataType: 'JSON',
+        success: function (res) {
+            // log 词条页广告被拦截情况（此处 log 请求成功）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'success'
+            });
+
+            if (!res.errno) {
+                if (res.data[5]) {
+                    require.async(['wiki-lemma:widget/promotion/rightPreciseAd/rightPreciseAd.js'], function(rightPreciseAd) {
+                        rightPreciseAd(res.data[5]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[5][0].adId,
+                            adTitle: res.data[5][0].name,
+                            adPos: 5
+                        });
+                    });
+                } else if (res.data[1]) {
+                                        require.async(['wiki-lemma:widget/promotion/vbaike/vbaike.js'], function(vbaike) {
+                        vbaike(res.data[1]);
+                        for(var i in res.data[1]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[1][i].adId,
+                                adTitle: res.data[1][i].name,
+                                adPos: 1
+                            });
+                        }
+                    });
+                                    }
+                if (res.data[9]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightBigAd/rightBigAd.js'], function(rightBigAd) {
+                        rightBigAd(res.data[9]);
+                            nslog(10002201, location.href, {
+                                adId: res.data[9][0].adId,
+                                adTitle: res.data[9][0].name,
+                                adPos: 9
+                            });
+                    });
+                                    } else if(res.data[2]) {
+                    require.async(['wiki-lemma:widget/promotion/slide/slide.js'], function(slide) {
+                        slide(res.data[2]);
+                        for(var i in res.data[2]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[2][i].adId,
+                                adTitle: res.data[2][i].name,
+                                adPos: 2
+                            });
+                        }
+                    });
+                }
+                if (res.data[3]) {
+                                        require.async(['wiki-lemma:widget/promotion/topAd/topAd.js'], function(topAd) {
+                        topAd(res.data[3]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[3][0].adId,
+                            adTitle: res.data[3][0].name,
+                            adPos: 3
+                        });
+                    });
+                                    }
+                if (res.data[4]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightAd/rightAd.js'], function(rightAd) {
+                        rightAd(res.data[4]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[4][0].adId,
+                            adTitle: res.data[4][0].name,
+                            adPos: 4
+                        });
+                    });
+                                    }
+                if (res.data[15]) {
+                    require.async(['wiki-lemma:widget/promotion/banner/banner.js'], function(banner) {
+                        banner(res.data[15]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[15][0].adId,
+                            adTitle: res.data[15][0].name,
+                            adPos: 15
+                        });
+                    });
+                }
+                if (res.data[16]) {
+                    require.async(['wiki-lemma:widget/promotion/declaration/declaration.js'], function(declaration) {
+                        declaration(res.data[16]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[16][0].adId,
+                            adTitle: res.data[16][0].name,
+                            adPos: 16
+                        });
+                    })
+                }
+            } else {
+                return;
+            }
+
+            setTimeout(function () {
+                var elemArr = {};
+                res.data[1] && res.data[1].length > 0 && (elemArr['lemma-vbaike-ad'] = $('.lemmaWgt-promotion-vbaike .promotion_viewport a:eq(0) img').get(0));
+                res.data[2] && res.data[2].length > 0 && (elemArr['lemma-slide-ad'] = $('.lemmaWgt-promotion-slide .promotion_viewport a:eq(0) img').get(0));
+                res.data[3] && res.data[3].length > 0 && (elemArr['lemma-navbar-ad'] = {
+                    node: $('.header [nslog-type="10002202"]').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.header [nslog-type="10002202"]').css('background-image').indexOf(res.data[3][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[4] && res.data[4].length > 0 && (elemArr['lemma-side-ad'] = {
+                    node: $('.right-ad img').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.right-ad img').attr('src').indexOf(res.data[4][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[15] && res.data[15].length > 0 && (elemArr['lemma-configModule-banner'] = $('.configModuleBanner').get(0));
+                res.data[16] && res.data[16].length > 0 && (elemArr['lemma-configModule-declaration'] = $('.lemmaWgt-declaration').get(0));
+
+                testElem.log(elemArr, 70000102);
+            }, 1000);
+        },
+        error: function () {
+            // log 词条页广告被拦截情况（此处 log 请求失败）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'error'
+            });
+        }
+    });
+
+    // 设置分享内容
+    window.BKShare.setCommon({
+        bdText: "\u3010\u666e\u7f57\u65fa\u65af_\u767e\u5ea6\u767e\u79d1\u3011\u666e\u7f57\u65fa\u65af\uff08Provence\uff09\uff0c\u5168\u79f0\u666e\u7f57\u65fa\u65af-\u963f\u5c14\u5351\u65af-\u84dd\u8272\u6d77\u5cb8\uff08Provence-Alpes-C\u00f4te d&#39;Azur\uff09\uff0c\u539f\u4e3a\u7f57\u9a6c\u5e1d\u56fd\u7684\u4e00\u4e2a\u884c\u7701\uff0c\u73b0\u4e3a\u6cd5\u56fd\u4e1c\u5357\u90e8\u7684\u4e00\u4e2a\u5730\u533a\uff0c\u6bd7\u90bb\u5730\u4e2d\u6d77\uff0c\u548c\u610f\u5927\u5229\u63a5\u58e4\uff0c\u662f\u4ece\u5730\u4e2d\u6d77\u6cbf\u5cb8\u5ef6\u4f38\u5230\u5185\u9646\u7684\u4e18\u9675\u5730\u5e26\u3002\u4e2d\u95f4\u6709\u5927\u6cb3\u9686\u6cb3\uff08Rhone\uff09\u6d41\u8fc7\u3002\u4ece\u963f\u5c14\u5351\u65af\u5c71\u7ecf\u91cc\u6602\u5357\u6d41\u7684\u7f57\u8bb7\u6cb3\uff08Rhone\uff09\uff0c\u5728\u666e\u7f57\u65fa\u65af\u9644.....\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u767e\u79d1\uff09",
+        bdDesc: '',
+        bdUrl: 'http:\/\/baike.baidu.com\/subview\/16831\/5637588.htm',
+        bdPic: '',
+        onBeforeClick: function (){
+            $('.bdshare_dialog_box').hide();
+        }
+    });
+
+    // 底部投诉带入当前页面 url
+    var map = [1, 2, 4, 3];
+    $('.wgt-footer-main .suggestion').find('a').each(function(i) {
+        $(this).attr('href', 'http://tousu.baidu.com/baike/add?word=%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF' + '&&submit_link=' + encodeURIComponent(window.location.href) + '#' + map[i]);
+    });
+
+    // 为超出预设内容的表格添加table-responsive控制
+    $('.main-content').find('table').each(function(index) {
+        var $that = $(this);
+        if ($that.width() > 790) {
+            $that.wrap('<div class="table-responsive"></div>');
+        }
+    });
+}();
+!function(){      require('wiki-common:widget/component/psLink/psLink.js');
+    }();</script>
+<script type="text/javascript">
+  var Hunter = window.Hunter || {};
+  Hunter.userConfig = Hunter.userConfig || [];
+  </script>
+<script type="text/javascript" src="https://gss0.baidu.com/70cFsjip0QIZ8tyhnq/hunter/baike.js?st=17338" defer></script><script type="text/javascript">
+  // DOM Ready时，统计用户可操作时间。
+  alog('speed.set', 'drt', +new Date);
+
+  void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&&a.addEventListener("load",b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d,k&&l&&l>k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.min.js");
+</script>
+</html>
+
